@@ -55,5 +55,12 @@
 
 ---
 
+## 🐍 Snake Contribution
+
+![Snake animation](https://github.com/veendysuseno/veendysuseno/blob/output/github-contribution-grid-snake.svg)
+
+
+---
+
 ⭐ *Feel free to explore my repositories and give a star if you like my work!*  
 🔥 *Let's build something awesome together!*
