@@ -50,8 +50,8 @@
 
 ## 🌐 Connect with Me
 - GitHub: [github.com/veendysuseno](https://github.com/veendysuseno)
-- Instagram: `@veendysuseno`
-- LinkedIn: `linkedin.com/in/veendysuseno`
+- Instagram: `@veendysuseno` [instagram.com/veendysuseno/](https://www.instagram.com/veendysuseno/)
+- LinkedIn: `linkedin.com/in/veendysuseno` [linkedin.com/in/veendysuseno](https://www.linkedin.com/in/veendysuseno/)
 
 
 ---
