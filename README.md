@@ -53,21 +53,6 @@
 - Instagram: `@veendysuseno`
 - LinkedIn: `linkedin.com/in/veendysuseno`
 
----
-
-![Banner](https://capsule-render.vercel.app/api?
-type=waving&
-color=gradient&
-height=200&
-section=header&
-text=Veendy+Suseno&
-fontSize=40)
-
----
-
-## Games
-
-![3D Contribution](https://github.com/veendysuseno/veendysuseno/blob/output/profile-3d-contrib/profile-night-view.svg)
 
 ---
 
