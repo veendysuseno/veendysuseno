@@ -47,6 +47,9 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=veendysuseno&layout=compact&theme=tokyonight)
 
+https://github-readme-stats.vercel.app/api?username=veendysuseno&show_icons=true&theme=tokyonight&cache_seconds=7200
+
+
 
 ## 🌐 Connect with Me
 - GitHub: [github.com/veendysuseno](https://github.com/veendysuseno)
