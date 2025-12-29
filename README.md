@@ -54,8 +54,6 @@
 </p>
 
 
----
-
 ## 🌐 Connect with Me
 - 🔗 GitHub: **https://github.com/veendysuseno**  
 - 📸 Instagram: **https://www.instagram.com/veendysuseno/**  
