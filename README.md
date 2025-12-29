@@ -42,10 +42,19 @@
 ---
 
 ## 📊 GitHub Stats
-![Veendy's GitHub stats](https://github-readme-stats.vercel.app/api?username=veendysuseno&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=veendysuseno&show_icons=true&theme=tokyonight"
+       alt="Veendy's GitHub Stats"
+  />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veendysuseno&layout=compact&theme=tokyonight)
-
+<p align="center">
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=veendysuseno&layout=compact&theme=tokyonight"
+       alt="Top Languages"
+  />
+</p>
 ---
 
 ## 🌐 Connect with Me
