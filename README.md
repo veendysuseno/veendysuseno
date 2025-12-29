@@ -44,18 +44,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=veendysuseno&show_icons=true&theme=tokyonight"
-    alt="Veendy's GitHub Stats"
-  />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=veendysuseno&show_icons=true&theme=tokyonight&cache_seconds=7200
+" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=veendysuseno&layout=compact&theme=tokyonight"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=veendysuseno&layout=compact&theme=tokyonight&cache_seconds=7200
+" />
 </p>
+
 
 ---
 
