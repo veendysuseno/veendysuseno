@@ -1,17 +1,17 @@
 # 👋 Hi, I'm Veendy Suseno!
 
 🚀 Passionate about technology, coding, and continuous learning.  
-💻 Interested in software development, web technologies, **computer networking**, and problem solving.  
+💻 Interested in software development, web technologies, **computer networking**, and problem-solving.  
 🌱 Always exploring new tools, frameworks, and network technologies.
 
 ---
 
 ## 🧑‍💻 About Me
-- 🔭 Currently learning and building cool projects
-- 🌐 Strong interest in **Computer Networking & Network Security**
-- 🎯 Goal: Become a skilled developer and network engineer
-- 🤝 Open to collaboration and new opportunities
-- 📍 Based in South Jakarta, Indonesia
+- 🔭 Currently learning and building cool projects  
+- 🌐 Strong interest in **Computer Networking & Network Security**  
+- 🎯 Goal: Become a skilled developer and network engineer  
+- 🤝 Open to collaboration and new opportunities  
+- 📍 Based in South Jakarta, Indonesia  
 
 ---
 
@@ -27,40 +27,44 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ### 🌐 Networking
-- Routing & Switching
-- Network Security
-- Mikrotik Configuration
-- Firewall Management
-- VPN & Network Troubleshooting
+- Routing & Switching  
+- Network Security  
+- MikroTik Configuration  
+- Firewall Management  
+- VPN & Troubleshooting  
 
 ---
 
 ## 📜 Certifications
-- 🏅 **MTCNA (MikroTik Certified Network Associate)**
-- 🏅 **Fortinet NSE 4 – Network Security Professional**
+- 🏅 **MTCNA — MikroTik Certified Network Associate**  
+- 🏅 **Fortinet NSE 4 — Network Security Professional**
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=veendysuseno&show_icons=true&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=veendysuseno&show_icons=true&theme=tokyonight"
+    alt="Veendy's GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veendysuseno&layout=compact&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=veendysuseno&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+  />
 </p>
-
 
 ---
 
 ## 🌐 Connect with Me
-- GitHub: [github.com/veendysuseno](https://github.com/veendysuseno)
-- Instagram: `@veendysuseno` [instagram.com/veendysuseno/](https://www.instagram.com/veendysuseno/)
-- LinkedIn: `linkedin.com/in/veendysuseno` [linkedin.com/in/veendysuseno](https://www.linkedin.com/in/veendysuseno/)
-
+- 🔗 GitHub: **https://github.com/veendysuseno**  
+- 📸 Instagram: **https://www.instagram.com/veendysuseno/**  
+- 💼 LinkedIn: **https://www.linkedin.com/in/veendysuseno/**  
 
 ---
 
 ⭐ *Feel free to explore my repositories and give a star if you like my work!*  
-🔥 *Let's build something awesome together!*
+🔥 *Let’s build something awesome together!*
