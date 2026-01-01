@@ -41,15 +41,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Shields.io Badges
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=veendysuseno&show_icons=true&theme=tokyonight" />
-</p>
+![Followers](https://img.shields.io/github/followers/veendysuseno?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/veendysuseno?style=for-the-badge)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veendysuseno&layout=compact&theme=tokyonight" />
-</p>
 
 
 
