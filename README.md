@@ -1,8 +1,10 @@
-<h2 align="center">🌟 Selamat Tahun Baru 2026 🌟</h2>
+<h2 align="center">🌟 Happy New Year 2026 🌟</h2>
 
 <p align="center">
-  Semoga di tahun ini kita semakin berkembang, belajar, dan berkarya bersama 💻✨
+ Hopefully this year we will continue to develop, learn and work together. 💻✨
 </p>
+
+---
 
 # 👋 Hi, I'm Veendy Suseno!
 
