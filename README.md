@@ -1,11 +1,10 @@
-# 👋 Hi, I'm Veendy Suseno!
-
 <h2 align="center">🌟 Selamat Tahun Baru 2026 🌟</h2>
 
 <p align="center">
   Semoga di tahun ini kita semakin berkembang, belajar, dan berkarya bersama 💻✨
 </p>
 
+# 👋 Hi, I'm Veendy Suseno!
 
 🚀 Passionate about technology, coding, and continuous learning.  
 💻 Interested in software development, web technologies, **computer networking**, and problem-solving.  
