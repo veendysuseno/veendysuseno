@@ -1,28 +1,35 @@
-#  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Veendy Suseno!
+<!-- Header -->
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px">
+  Hi, I'm <strong>Veendy Suseno</strong>
+</h1>
 
-🚀 Passionate about technology, coding, and continuous learning  
-💻 Interested in software development, web technologies, **computer networking**, and problem-solving  
-🌱 Always exploring new tools, frameworks, and network technologies
+<p align="center">
+  Passionate about <strong>Technology</strong>, <strong>Software Development</strong>, and <strong>Computer Networking</strong>.
+  <br>
+  Always learning — always building 🚀
+</p>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
+
 - 🔭 Currently learning and building cool projects  
 - 🌐 Strong interest in **Computer Networking & Network Security**  
-- 🎯 Goal: Become a skilled developer and network engineer  
-- 🤝 Open to collaboration and learning opportunities  
-- 📍 Based in South Jakarta, Indonesia  
+- 🎯 Goal → Become a skilled **Developer & Network Engineer**  
+- 🤝 Open to collaboration, teamwork, and new opportunities  
+- 📍 South Jakarta, Indonesia  
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Programming
+### 💻 Programming & Tools
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
@@ -30,32 +37,48 @@
 - Routing & Switching  
 - Network Security  
 - MikroTik Configuration  
-- Firewall Management  
-- VPN & Troubleshooting  
+- Firewall & VPN  
+- Troubleshooting  
 
 ---
 
 ## 📜 Certifications
+
 - 🏅 **MTCNA — MikroTik Certified Network Associate**  
-- 🏅 **Fortinet NSE 4 — Network Security Professional**
+- 🏅 **Fortinet NSE 4 — Network Security Professional**  
 
 ---
 
 ## 📊 GitHub Stats & Badges
-![Followers](https://img.shields.io/github/followers/veendysuseno?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/veendysuseno?style=for-the-badge)
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/veendysuseno?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/veendysuseno?style=for-the-badge">
+</p>
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
+
+📌 Feel free to reach out:
+
 - 🔗 GitHub: **https://github.com/veendysuseno**  
 - 📸 Instagram: **https://www.instagram.com/veendysuseno/**  
 - 💼 LinkedIn: **https://www.linkedin.com/in/veendysuseno/**  
 
 ---
 
-⭐ *Feel free to explore my repositories and give a star if you like my work!*  
-🔥 *Let’s build something awesome together!*  
+## 🐍 GitHub Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/veendysuseno/veendysuseno/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/veendysuseno/veendysuseno/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/veendysuseno/veendysuseno/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
+<p align="center">
+  ⭐ <em>Feel free to explore my repositories and give a star if you like my work!</em><br>
+  🔥 <strong>Let’s build something awesome together!</strong>
+</p>
