@@ -1,8 +1,8 @@
-# Hi, I'm Veendy Suseno!
+# 👋 Hi, I'm Veendy Suseno!
 
-🚀 Passionate about technology, coding, and continuous learning.  
-💻 Interested in software development, web technologies, **computer networking**, and problem-solving.  
-🌱 Always exploring new tools, frameworks, and network technologies.
+🚀 Passionate about technology, coding, and continuous learning  
+💻 Interested in software development, web technologies, **computer networking**, and problem-solving  
+🌱 Always exploring new tools, frameworks, and network technologies
 
 ---
 
@@ -10,12 +10,12 @@
 - 🔭 Currently learning and building cool projects  
 - 🌐 Strong interest in **Computer Networking & Network Security**  
 - 🎯 Goal: Become a skilled developer and network engineer  
-- 🤝 Open to collaboration and new opportunities  
+- 🤝 Open to collaboration and learning opportunities  
 - 📍 Based in South Jakarta, Indonesia  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 ### 💻 Programming
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
@@ -41,13 +41,11 @@
 
 ---
 
-## 📊 Shields.io Badges
-
+## 📊 GitHub Stats & Badges
 ![Followers](https://img.shields.io/github/followers/veendysuseno?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/veendysuseno?style=for-the-badge)
 
-
-
+---
 
 ## 🌐 Connect with Me
 - 🔗 GitHub: **https://github.com/veendysuseno**  
@@ -57,4 +55,10 @@
 ---
 
 ⭐ *Feel free to explore my repositories and give a star if you like my work!*  
-🔥 *Let’s build something awesome together!*
+🔥 *Let’s build something awesome together!*  
+
+---
+
+## 🐍 Watch My GitHub Contribution Snake
+
+![GitHub Snake](https://github.com/veendysuseno/veendysuseno/blob/output/github-contribution-grid-snake.svg)
