@@ -61,4 +61,5 @@
 
 ## 🐍 Watch My GitHub Contribution Snake
 
-![GitHub Snake](https://github.com/veendysuseno/veendysuseno/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](https://raw.githubusercontent.com/veendysuseno/veendysuseno/output/github-contribution-grid-snake.svg)
+
