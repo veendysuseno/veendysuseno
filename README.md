@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Veendy Suseno!
+#  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Veendy Suseno!
 
 🚀 Passionate about technology, coding, and continuous learning  
 💻 Interested in software development, web technologies, **computer networking**, and problem-solving  
@@ -58,8 +58,4 @@
 🔥 *Let’s build something awesome together!*  
 
 ---
-
-## 🐍 Watch My GitHub Contribution Snake
-
-![GitHub Snake Light](https://raw.githubusercontent.com/veendysuseno/veendysuseno/output/github-contribution-grid-snake.svg)
 
