@@ -68,19 +68,7 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/veendysuseno/veendysuseno/output/snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/veendysuseno/veendysuseno/output/snake.svg" />
-</picture>
-
-
----
-
 <p align="center">
   ⭐ <em>Feel free to explore my repositories and give a star if you like my work!</em><br>
   🔥 <strong>Let’s build something awesome together!</strong>
 </p>
-
-Thanks for comming !!!
