@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  Passionate about <strong>Technology</strong>, <strong>Software Development</strong>, and <strong>Computer Networking</strong>.
+  Passionate about <strong>Technology</strong>, <strong>Computer Engineering</strong>,<strong>Network Engineering</strong>, and <strong>Cyber Security</strong>.
   <br>
   Always learning — always building 🚀
 </p>
