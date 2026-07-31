@@ -63,9 +63,14 @@
 
 📌 Feel free to reach out:
 
-- 🔗 GitHub: **https://github.com/veendysuseno**  
-- 📸 Instagram: **https://www.instagram.com/veendysuseno/**  
-- 💼 LinkedIn: **https://www.linkedin.com/in/veendysuseno/**  
+- 🔗 My Profile : **https://linktr.ee/veendysuseno**  
+- 📸 Instagram : **https://www.instagram.com/veendysuseno/**  
+- 💼 LinkedIn : **https://www.linkedin.com/in/veendysuseno/**
+<br>
+<p align="left">
+<a href="https://linkedin.com/in/veendysuseno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="veendysuseno" height="30" width="40" /></a>
+<a href="https://instagram.com/veendysuseno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="veendysuseno" height="30" width="40" /></a>
+</p>
 
 ---
 
