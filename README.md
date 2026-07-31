@@ -22,6 +22,16 @@
 
 ---
 
+## 📊 Profile View, GitHub Stats, & Badges
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=veendysuseno&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="veendysuseno" />
+  <img src="https://img.shields.io/github/followers/veendysuseno?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/veendysuseno?style=for-the-badge">
+</p>
+
+---
+
 ## 🛠 Tech Stack
 
 ### 💻 Programming & Tools
@@ -46,16 +56,6 @@
 
 - 🏅 **MTCNA — MikroTik Certified Network Associate**  
 - 🏅 **Fortinet NSE 4 — Network Security Professional**  
-
----
-
-## 📊 GitHub Stats & Badges
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=veendysuseno&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="veendysuseno" />
-  <img src="https://img.shields.io/github/followers/veendysuseno?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/veendysuseno?style=for-the-badge">
-</p>
 
 ---
 
