@@ -52,7 +52,7 @@
 ## 📊 GitHub Stats & Badges
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=veendysuseno&label=Profile%20views&color=0e75b6&style=flat" alt="veendysuseno" /> </p>
+  <img src="https://komarev.com/ghpvc/?username=veendysuseno&label=Profile%20views&color=0e75b6&style=flat" alt="veendysuseno" />
   <img src="https://img.shields.io/github/followers/veendysuseno?style=for-the-badge">
   <img src="https://img.shields.io/github/stars/veendysuseno?style=for-the-badge">
 </p>
