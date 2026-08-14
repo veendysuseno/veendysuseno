@@ -12,7 +12,7 @@
 
 ---
 
-## 👨‍💻 About Me 💫
+## 💫 About Me 
 
 - 👨🏻‍💻 I'm just someone who wants to know how the world works.
 - 🤖 Passionate about uncovering insights and solving.
@@ -68,10 +68,11 @@
 - 🔗 My Profile : **https://linktr.ee/veendysuseno**  
 - 📸 Instagram : **https://www.instagram.com/veendysuseno/**  
 - 💼 LinkedIn : **https://www.linkedin.com/in/veendysuseno/**
+- 🌐 E-mail : **veendysuseno@gmail.com**
 <br>
 <p align="left">
-<a href="https://linkedin.com/in/veendysuseno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="veendysuseno" height="30" width="40" /></a>
 <a href="https://instagram.com/veendysuseno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="veendysuseno" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/veendysuseno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="veendysuseno" height="30" width="40" /></a>
 <a href="https://veendysuseno.medium.com/" target="blank"><img align="center" src="https://github.com/veendysuseno/github-profile-readme-generator/blob/main/src/images/icons/Social/medium.svg" alt="veendysuseno" height="30" width="40" /></a>
 </p>
 
@@ -80,6 +81,7 @@
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/veendysuseno) 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/veendysuseno/) 
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:veendysuseno@gmail.com)
+
 
 ---
 
