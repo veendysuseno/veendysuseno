@@ -72,7 +72,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/veendysuseno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="veendysuseno" height="30" width="40" /></a>
 <a href="https://instagram.com/veendysuseno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="veendysuseno" height="30" width="40" /></a>
-<a href="https://mail.google.com/mail/u/1/#inbox?" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" alt="veendysuseno" height="30" width="40" /></a>
+<a href="https://veendysuseno.medium.com/" target="blank"><img align="center" src="https://github.com/veendysuseno/github-profile-readme-generator/blob/main/src/images/icons/Social/medium.svg" alt="veendysuseno" height="30" width="40" /></a>
 </p>
 
 <br>
