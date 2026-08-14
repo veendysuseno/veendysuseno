@@ -1,7 +1,7 @@
 <!-- Header -->
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px">
-  Hi, I'm <strong>Veendy Suseno</strong>
+  Hi, I'm <strong>Veendy Suseno</strong> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h1>
 
 <p align="center">
@@ -12,13 +12,13 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me 💫
 
 - 🔭 Currently learning and building cool projects  
 - 🌐 Strong interest in **Computer Networking & Network Security**  
 - 🎯 Goal → Become a skilled **Developer & Network Engineer**  
 - 🤝 Open to collaboration, teamwork, and new opportunities  
-- 📍 South Jakarta, Indonesia  
+- 📍 Jakarta, Indonesia  
 
 ---
 
