@@ -14,6 +14,8 @@
 
 ## 👨‍💻 About Me 💫
 
+- 👨🏻‍💻 I'm just someone who wants to know how the world works.
+- 🤖 Passionate about uncovering insights and solving.
 - 🔭 Currently learning and building cool projects  
 - 🌐 Strong interest in **Computer Networking & Network Security**  
 - 🎯 Goal → Become a skilled **Developer & Network Engineer**  
