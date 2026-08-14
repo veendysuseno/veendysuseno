@@ -77,13 +77,6 @@
 <a href="https://veendysuseno.medium.com/" target="blank"><img align="center" src="https://github.com/veendysuseno/github-profile-readme-generator/blob/main/src/images/icons/Social/medium.svg" alt="veendysuseno" height="30" width="40" /></a>
 </p>
 
-<br>
-
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/veendysuseno) 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/veendysuseno/) 
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:veendysuseno@gmail.com)
-
-
 ---
 
 <div align="center">
