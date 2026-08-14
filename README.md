@@ -74,6 +74,12 @@
 
 ---
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
 <p align="center">
   ⭐ <em>Feel free to explore my repositories and give a star if you like my work!</em><br>
   🔥 <strong>Let’s build something awesome together!</strong>
