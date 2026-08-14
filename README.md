@@ -76,7 +76,9 @@
 </p>
 
 <br>
-![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:adibnur.job@gmail.com)
+
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/veendysuseno) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/veendysuseno/) [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:veendysuseno@gmail.com)
+
 ---
 
 <div align="center">
