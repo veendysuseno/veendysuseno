@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  Passionate about <strong>Technology</strong>, <strong>Computer Engineering</strong>,<strong>Network Engineering</strong>, and <strong>Cyber Security</strong>.
+  Passionate about <strong>Information Technology</strong>, <strong>Computer Engineering</strong>,<strong>Network Engineering</strong>, and <strong>Cyber Security</strong>.
   <br>
   Always learning — always building 🚀
 </p>
@@ -14,13 +14,13 @@
 
 ## 💫 About Me 
 
+- 📍 South Jakarta, Indonesia  
 - 👨🏻‍💻 I'm just someone who wants to know how the world works.
 - 🤖 Passionate about uncovering insights and solving.
 - 🔭 Currently learning and building cool projects  
 - 🌐 Strong interest in **Computer Networking & Network Security**  
 - 🎯 Goal → Become a skilled **Developer & Network Engineer**  
 - 🤝 Open to collaboration, teamwork, and new opportunities  
-- 📍 Jakarta, Indonesia  
 
 ---
 
@@ -57,7 +57,10 @@
 ## 📜 Certifications
 
 - 🏅 **MTCNA — MikroTik Certified Network Associate**  
-- 🏅 **Fortinet NSE 4 — Network Security Professional**  
+- 🏅 **Fortinet NSE 4 — Network Security Professional**
+- 🏅 **Badan Nasional Sertifikasi Profesi (BNSP) - Computer Technical Support**
+- 🏅 **Coursera - Google Cybersecurity Specialization**
+- 🏅 **Coursera - Google IT Support Specialization**
 
 ---
 
