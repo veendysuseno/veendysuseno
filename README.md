@@ -93,3 +93,7 @@
   ⭐ <em>Feel free to explore my repositories and give a star if you like my work!</em><br>
   🔥 <strong>Let’s build something awesome together!</strong>
 </p>
+
+---
+
+@Copyright veendy 2026
