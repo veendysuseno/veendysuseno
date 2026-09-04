@@ -321,18 +321,6 @@ Emerging Technology
 
 <p align="center">
 
-🔗 <strong>Linktree:</strong> <a href="https://linktr.ee/veendysuseno">linktr.ee/veendysuseno</a>
-
-<br>
-
-💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/veendysuseno/">linkedin.com/in/veendysuseno</a>
-
-<br>
-
-📧 <strong>Email:</strong> <a href="mailto:veendysuseno@gmail.com">[veendysuseno@gmail.com](mailto:veendysuseno@gmail.com)</a>
-
-</p>
-
 ---
 
 ## 🐍 Contribution Snake
