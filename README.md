@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px">
-  Hi, I'm <strong>Veendy Suseno</strong> 👋
+  Hi, I'm <strong>Veendy Suseno</strong>
 </h1>
 
 <p align="center">
