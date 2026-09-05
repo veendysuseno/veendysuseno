@@ -11,9 +11,9 @@
 
 <p align="center">
   <strong>IT Specialist | Network Engineer | Network Security Enthusiast</strong>
-  <br><br>
+  <br>
   IT Infrastructure • Networking • System Administration • Cyber Security
-  <br><br>
+  <br>
   <em>Building, troubleshooting, securing, and continuously improving technology.</em> 🚀
 </p>
 
