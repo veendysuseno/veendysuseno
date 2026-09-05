@@ -274,38 +274,6 @@ Infrastructure
 
 ---
 
-# 🚀 Featured Projects
-
-## 📋 TaskFlow
-
-**TaskFlow** is a lightweight **web-based Task Manager** built using fundamental web technologies without a frontend framework.
-
-### Technology
-
-* HTML5
-* CSS3
-* Vanilla JavaScript
-* LocalStorage
-
-### Features
-
-* ➕ Create tasks
-* 🗑️ Delete tasks
-* ✅ Complete tasks
-* 🔎 Search tasks
-* 🏷️ Task filtering
-* ⚡ Priority management
-* 📅 Deadline management
-* 📊 Progress tracking
-* 📈 Task statistics
-* 🌙 Dark mode
-* 📱 Responsive design
-* 💾 LocalStorage persistence
-
-> The project demonstrates practical knowledge of **frontend fundamentals, JavaScript logic, DOM manipulation, browser storage, and responsive UI development**.
-
----
-
 # 🧪 Technical Labs
 
 I regularly use **virtual machines, Linux environments, networking labs, and security tools** to develop practical skills through hands-on experimentation.
