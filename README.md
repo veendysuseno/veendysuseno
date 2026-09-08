@@ -63,8 +63,6 @@ Beyond infrastructure, I also explore **programming, web development, automation
 * 🤖 Automation & IoT
 * 📊 Data Analytics
 
-> **Learn → Build → Troubleshoot → Secure → Improve**
-
 ---
 
 # 🎯 Professional Focus
