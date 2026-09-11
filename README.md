@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <strong>IT Specialist | Network Engineer | Network Security Enthusiast</strong>
+  <strong>IT Specialist | Network Engineer </strong>
 </p>
 
 <p align="center">
-  IT Infrastructure • Networking • System Administration • Cyber Security
+  IT Infrastructure • Networking • Cyber Security Enthusiast
 </p>
 
 <p align="center">
