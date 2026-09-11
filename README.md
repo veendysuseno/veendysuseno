@@ -16,7 +16,9 @@
   <br>
   <em>Building, troubleshooting, securing, and continuously improving technology.</em> 🚀
 </p>
-
+<br>
+🌐 Connect With Me
+</br>
 <p align="center">
   <a href="https://www.linkedin.com/in/veendysuseno/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -35,6 +37,9 @@
   </a>
   <a href="https://www.youtube.com/@veendysuseno">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+  <a href="mailto:veendysuseno@gmail.com">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="Email" height="30" width="40">
   </a>
 </p>
 
@@ -62,50 +67,6 @@ Beyond infrastructure, I also explore **programming, web development, automation
 * 💻 Programming & Web Development
 * 🤖 Automation & IoT
 * 📊 Data Analytics
-
----
-
-# 🎯 Professional Focus
-
-My career direction follows a practical progression from infrastructure and networking toward security.
-
-```text
-IT Support & Infrastructure
-        │
-        ├── Hardware & Software Troubleshooting
-        ├── Windows / Linux
-        ├── System Administration
-        └── User & Access Management
-        │
-        ▼
-Network Engineering
-        │
-        ├── TCP/IP
-        ├── Routing & Switching
-        ├── LAN / WLAN
-        ├── Cisco
-        ├── MikroTik
-        └── Network Troubleshooting
-        │
-        ▼
-Network Security
-        │
-        ├── Firewall
-        ├── VPN
-        ├── Network Hardening
-        ├── Security Monitoring
-        └── Secure Network Architecture
-        │
-        ▼
-Cyber Security
-        │
-        ├── Security Fundamentals
-        ├── Vulnerability Assessment
-        ├── Web Security
-        ├── Defensive Security
-        ├── Security Monitoring
-        └── SOC / Security Operations
-```
 
 ---
 
@@ -191,16 +152,6 @@ Cyber Security
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
 </p>
 
-* HTML5
-* CSS3
-* JavaScript
-* Python
-* C++
-* Git
-* GitHub
-* Web Development
-* Automation & Scripting
-
 ---
 
 ## 📊 Data, Automation & IoT
@@ -217,47 +168,6 @@ Cyber Security
 * IoT Fundamentals
 * Technical Experimentation
 * Technology Research
-
----
-
-# 🧰 Tools & Technologies
-
-```text
-Operating Systems
-├── Windows 10 / 11
-├── Windows Server
-└── Linux / Kali Linux
-
-Networking
-├── Cisco
-├── MikroTik RouterOS
-├── TCP/IP
-├── VLAN
-├── DHCP / DNS
-└── Routing & Switching
-
-Security
-├── Fortinet
-├── Nmap
-├── Burp Suite
-├── Kali Linux
-└── Network Security Tools
-
-Development
-├── HTML5
-├── CSS3
-├── JavaScript
-├── Python
-├── C++
-└── Git / GitHub
-
-Infrastructure
-├── Active Directory
-├── Windows Administration
-├── Linux Administration
-├── Hardware Troubleshooting
-└── Network Troubleshooting
-```
 
 ---
 
@@ -317,104 +227,12 @@ I regularly use **virtual machines, Linux environments, networking labs, and sec
 
 ---
 
-# 📚 Currently Learning
-
-```text
-NETWORK ENGINEERING
-├── Advanced Routing & Switching
-├── Network Design
-├── Network Troubleshooting
-├── Network Security
-├── Firewall
-└── VPN
-
-CYBER SECURITY
-├── Security Fundamentals
-├── Network Security
-├── Vulnerability Assessment
-├── Web Security
-├── Defensive Security
-├── Security Monitoring
-└── SOC Fundamentals
-
-SYSTEM ADMINISTRATION
-├── Linux
-├── Windows Server
-├── Active Directory
-├── System Administration
-└── Infrastructure Management
-
-PROGRAMMING
-├── JavaScript
-├── Python
-├── Web Development
-├── Automation
-└── Scripting
-
-DATA & EMERGING TECHNOLOGY
-├── Data Analytics
-├── Data Processing
-└── IoT
-```
-
----
-
-# 📈 Learning Philosophy
-
-I believe technical skills are developed through **consistent hands-on practice**.
-
-```text
-LEARN
-  ↓
-UNDERSTAND
-  ↓
-BUILD
-  ↓
-BREAK
-  ↓
-TROUBLESHOOT
-  ↓
-SECURE
-  ↓
-DOCUMENT
-  ↓
-IMPROVE
-```
-
-My goal is not only to understand how technology works, but also to understand **how to deploy it, troubleshoot it, secure it, and continuously improve it**.
-
----
-
 # 📊 GitHub Profile
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=veendysuseno&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views">
   <img src="https://img.shields.io/github/followers/veendysuseno?style=for-the-badge" alt="GitHub Followers">
   <img src="https://img.shields.io/github/stars/veendysuseno?style=for-the-badge" alt="GitHub Stars">
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/veendysuseno/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40">
-</a>
-
-<a href="https://instagram.com/veendysuseno" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40">
-</a>
-
-<a href="https://veendysuseno.medium.com/" target="_blank">
-  <img src="https://github.com/veendysuseno/github-profile-readme-generator/blob/main/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40">
-</a>
-
-<a href="mailto:veendysuseno@gmail.com">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="Email" height="30" width="40">
-</a>
-
 </p>
 
 ---
