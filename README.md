@@ -62,70 +62,17 @@ I also explore **programming, automation, data analytics, web development, and I
 
 ## Technical Skills
 
-### IT Infrastructure & System Administration
-
-* Windows 10 / 11
-* Linux Administration
-* Windows Server
-* Active Directory
-* User & Access Management
-* Hardware & Software Troubleshooting
-* System Administration
-* IT Support & Helpdesk
-* Printer & Peripheral Troubleshooting
-* Basic Infrastructure Management
-
 <p>
   <img src="https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=flat&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat&logo=microsoft&logoColor=white">
-</p>
-
-### Networking
-
-* TCP/IP & OSI Model
-* IPv4 Addressing
-* Subnetting
-* Routing & Switching
-* LAN / WLAN
-* VLAN
-* DHCP & DNS
-* Network Troubleshooting
-* MikroTik RouterOS
-* Cisco Networking
-* Network Monitoring
-* Basic Network Infrastructure
-
-<p>
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white">
   <img src="https://img.shields.io/badge/MikroTik-293239?style=flat&logo=mikrotik&logoColor=white">
-</p>
-
-### Network & Cyber Security
-
-* Network Security Fundamentals
-* Firewall
-* VPN
-* Network Hardening
-* Security Monitoring
-* Vulnerability Assessment
-* Security Testing Fundamentals
-* Web Security Fundamentals
-* Linux Security
-* Defensive Security Fundamentals
-* Penetration Testing Fundamentals
-
-<p>
   <img src="https://img.shields.io/badge/Fortinet-EE3124?style=flat&logo=fortinet&logoColor=white">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white">
   <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat&logo=nmap&logoColor=white">
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white">
-</p>
-
-### Programming & Development
-
-<p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
@@ -135,17 +82,6 @@ I also explore **programming, automation, data analytics, web development, and I
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
 </p>
 
-### Data, Automation & IoT
-
-* Data Analytics
-* Data Processing
-* Python Automation
-* Scripting
-* IoT Fundamentals
-* Technical Experimentation
-
----
-
 ## Certifications
 
 * **Fortinet NSE 5**
@@ -154,49 +90,6 @@ I also explore **programming, automation, data analytics, web development, and I
 * **BNSP — Computer Technical Support**
 * **Google Cybersecurity Professional Certificate — Coursera**
 * **Google IT Support Professional Certificate — Coursera**
-
----
-
-## Technical Labs
-
-I build and maintain hands-on labs to strengthen my practical knowledge in networking, Linux administration, and cyber security.
-
-### Networking
-
-* MikroTik RouterOS
-* Cisco Networking
-* Routing & Switching
-* VLAN
-* DHCP & DNS
-* Firewall
-* VPN
-* Network Monitoring
-* IP Addressing & Subnetting
-
-### Cyber Security
-
-* Kali Linux
-* Nmap
-* Burp Suite
-* Web Security Fundamentals
-* Vulnerability Assessment
-* Network Security
-* Security Hardening
-* Defensive Security
-* Penetration Testing Fundamentals
-
-### Linux
-
-* Linux Administration
-* Bash
-* File Permissions
-* Users & Groups
-* Process Management
-* Networking
-* Package Management
-* SSH
-* Virtual Environments
-* System Troubleshooting
 
 ---
 
