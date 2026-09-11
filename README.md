@@ -1,6 +1,6 @@
-<h1 align="center">
-  Hi, I'm Veendy Suseno 👋
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Veendy+Suseno+%F0%9F%91%8B;IT+Specialist;Network+Engineer;Network+Security+Enthusiast" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <strong>IT Specialist | Network Engineer | Network Security Enthusiast</strong>
