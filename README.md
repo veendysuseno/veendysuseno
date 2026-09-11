@@ -51,12 +51,12 @@ I also explore **programming, automation, data analytics, web development, and I
 <p>
   <img src="https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white">
   <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=flat&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat&logo=microsoft&logoColor=white">
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white">
   <img src="https://img.shields.io/badge/MikroTik-293239?style=flat&logo=mikrotik&logoColor=white">
   <img src="https://img.shields.io/badge/Fortinet-EE3124?style=flat&logo=fortinet&logoColor=white">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white">
   <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat&logo=nmap&logoColor=white">
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
@@ -74,18 +74,6 @@ I also explore **programming, automation, data analytics, web development, and I
 * **Fortinet NSE 4 — Network Security**
 * **MTCNA — MikroTik Certified Network Associate**
 * **BNSP — Computer Technical Support**
-* **Google Cybersecurity Professional Certificate — Coursera**
-* **Google IT Support Professional Certificate — Coursera**
-
----
-
-## GitHub
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=veendysuseno&label=Profile%20Views&style=for-the-badge" alt="Profile Views">
-  <img src="https://img.shields.io/github/followers/veendysuseno?style=for-the-badge" alt="GitHub Followers">
-  <img src="https://img.shields.io/github/stars/veendysuseno?style=for-the-badge" alt="GitHub Stars">
-</p>
 
 ---
 
