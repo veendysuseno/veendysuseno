@@ -44,20 +44,6 @@ My work and learning focus on troubleshooting, maintaining, configuring, and sec
 
 I also explore **programming, automation, data analytics, web development, and IoT** to expand my technical knowledge and build practical solutions.
 
-### Professional Interests
-
-* IT Support & IT Infrastructure
-* Network Engineering
-* Network Security
-* Cyber Security
-* Linux & System Administration
-* Windows Server & Active Directory
-* Firewall & VPN
-* Cisco & MikroTik
-* Automation & Scripting
-* Data Analytics
-* IoT
-
 ---
 
 ## Technical Skills
