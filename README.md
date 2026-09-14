@@ -104,7 +104,6 @@ I also explore **Python, Go, web development, automation, computer vision, data 
 
 ## Certifications
 
-* **Fortinet NSE 5**
 * **Fortinet NSE 4 — Network Security**
 * **MTCNA — MikroTik Certified Network Associate**
 * **BNSP — Computer Technical Support**
