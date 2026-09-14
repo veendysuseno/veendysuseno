@@ -6,11 +6,7 @@
 </p>
 
 <p align="center">
-  <strong>IT Specialist | Network Engineer</strong>
-</p>
-
-<p align="center">
-  IT Infrastructure • Networking • Network Security • Cyber Security
+  <strong>IT Specialist >>> IT Infrastructure • Network Engineer • Cyber Security Assosiate </strong>
 </p>
 
 <p align="center">
