@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  IT Infrastructure • Network Security • Cyber Security
+  IT Infrastructure • Networking • Network Security • Cyber Security
 </p>
 
 <p align="center">
@@ -41,18 +41,18 @@
 
 ## About Me
 
-I'm an **IT Specialist with experience in IT Support and Networking**, with a strong interest in **IT Infrastructure, Network Engineering, Network Security, and Cyber Security**.
+I'm an **IT Specialist with experience in IT Support and Networking**, focused on **IT Infrastructure, Network Engineering, Network Security, and Cyber Security**.
 
-My technical focus includes:
+My core technical areas include:
 
 * IT Support & Troubleshooting
 * Network Configuration & Administration
 * Windows & Linux Systems
 * Network Security & Firewalls
-* VPN & Connectivity
+* VPN & Network Connectivity
 * System & Infrastructure Maintenance
 
-I also explore **Python, automation, web development, data analytics, and IoT** to strengthen my technical skills and build practical solutions.
+I also explore **Python, Go, web development, automation, computer vision, data analytics, and IoT** to expand my technical knowledge and build practical solutions.
 
 ---
 
@@ -82,13 +82,22 @@ I also explore **Python, automation, web development, data analytics, and IoT** 
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
 
-### 🛠️ Tools
+### 🧩 Frameworks & Libraries
+
+<p>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV">
+</p>
+
+### 🛠️ Tools & Platforms
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
@@ -108,13 +117,15 @@ I also explore **Python, automation, web development, data analytics, and IoT** 
 
 ## Current Focus
 
-I'm currently strengthening my skills in:
+Currently strengthening my skills in:
 
 * 🔹 Network Engineering
 * 🔹 Network Security
 * 🔹 Cyber Security
 * 🔹 Linux & System Administration
-* 🔹 Python & Automation
+* 🔹 Python & Go Development
+* 🔹 Web Development
+* 🔹 Automation & Computer Vision
 * 🔹 Security Labs & Practical Projects
 
 ---
