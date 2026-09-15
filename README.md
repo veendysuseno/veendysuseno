@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <strong>IT Specialist >>> IT Infrastructure • Network Engineer • Cyber Security Assosiate </strong>
+  <strong>IT Specialist >>> IT Infrastructure • Network Engineer • Cyber Security Associate</strong>
 </p>
 
 <p align="center">
@@ -47,6 +47,7 @@ My core technical areas include:
 * Network Security & Firewalls
 * VPN & Network Connectivity
 * System & Infrastructure Maintenance
+* Security Testing & Practical Cyber Security Labs
 
 I also explore **Python, Go, web development, automation, computer vision, data analytics, and IoT** to expand my technical knowledge and build practical solutions.
 
@@ -72,6 +73,7 @@ I also explore **Python, Go, web development, automation, computer vision, data 
   <img src="https://img.shields.io/badge/Fortinet-EE3124?style=flat&logo=fortinet&logoColor=white" alt="Fortinet">
   <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat&logo=nmap&logoColor=white" alt="Nmap">
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white" alt="Burp Suite">
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat&logo=metasploit&logoColor=white" alt="Metasploit">
 </p>
 
 ### 💻 Programming & Development
@@ -91,6 +93,10 @@ I also explore **Python, Go, web development, automation, computer vision, data 
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask">
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white" alt="Seaborn">
 </p>
 
 ### 🛠️ Tools & Platforms
@@ -119,6 +125,7 @@ Currently strengthening my skills in:
 * 🔹 Cyber Security
 * 🔹 Linux & System Administration
 * 🔹 Python & Go Development
+* 🔹 Data Analysis & Visualization
 * 🔹 Web Development
 * 🔹 Automation & Computer Vision
 * 🔹 Security Labs & Practical Projects
