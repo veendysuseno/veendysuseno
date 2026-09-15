@@ -399,14 +399,10 @@ Currently strengthening my skills through practical projects, hands-on labs, and
 ---
 
 <p align="center">
-  <strong>Learn. Build. Troubleshoot. Secure.</strong>
-</p>
-<p align="center">
   Thanks for visiting my profile.
   <br>
   Feel free to explore my repositories, projects, and technical labs.
 </p>
-
 <p align="center">
   <sub>© 2026 Veendy Suseno</sub>
 </p>
