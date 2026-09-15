@@ -50,7 +50,7 @@ My main technical areas include:
 * IoT & Embedded Systems
 * Automation & Technical Prototyping
 
-I also explore **Programming, Web Development, Data, Machine Learning, IoT, Automation, and Software Testing** through practical projects and technical labs.
+I also explore **Programming, Web Development, Data, Machine Learning, IoT, Automation, and Software Testing** through practical projects, experiments, and technical labs.
 
 My learning approach:
 
@@ -73,11 +73,12 @@ My learning approach:
 **Focus Areas:**
 
 * IT Support & Troubleshooting
+* Hardware & Software Troubleshooting
 * System Administration
-* Windows & Linux Administration
+* Windows Administration
+* Linux Administration
 * Windows Server
 * Active Directory
-* Hardware & Software Troubleshooting
 
 ---
 
@@ -127,17 +128,7 @@ My learning approach:
   <img src="https://img.shields.io/badge/Syslog-455A64?style=for-the-badge&logoColor=white" alt="Syslog">
   <img src="https://img.shields.io/badge/QoS-1976D2?style=for-the-badge&logoColor=white" alt="QoS">
   <img src="https://img.shields.io/badge/Network_Monitoring-2E7D32?style=for-the-badge&logoColor=white" alt="Network Monitoring">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
 </p>
-
-**Practical Skills:**
-
-* Network Troubleshooting
-* Packet Analysis
-* Network Monitoring
-* Connectivity Troubleshooting
-* Network Segmentation
-* Basic Network Security
 
 ## 🏢 Network Vendors
 
@@ -322,14 +313,87 @@ Areas of interest:
 
 # 🤖 Machine Learning, Deep Learning & Computer Vision
 
+## 📚 Machine Learning Algorithms
+
+### 🎯 Supervised Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Linear_Regression-3776AB?style=flat" alt="Linear Regression">
+  <img src="https://img.shields.io/badge/Logistic_Regression-3776AB?style=flat" alt="Logistic Regression">
+  <img src="https://img.shields.io/badge/K--Nearest_Neighbors-3776AB?style=flat" alt="K-Nearest Neighbors">
+  <img src="https://img.shields.io/badge/Decision_Tree-3776AB?style=flat" alt="Decision Tree">
+  <img src="https://img.shields.io/badge/Support_Vector_Machine-3776AB?style=flat" alt="Support Vector Machine">
+  <img src="https://img.shields.io/badge/Naive_Bayes-3776AB?style=flat" alt="Naive Bayes">
+</p>
+
+### 🔍 Unsupervised Learning
+
+<p>
+  <img src="https://img.shields.io/badge/K--Means_Clustering-6A1B9A?style=flat" alt="K-Means Clustering">
+  <img src="https://img.shields.io/badge/Hierarchical_Clustering-6A1B9A?style=flat" alt="Hierarchical Clustering">
+  <img src="https://img.shields.io/badge/DBSCAN-6A1B9A?style=flat" alt="DBSCAN">
+  <img src="https://img.shields.io/badge/PCA-6A1B9A?style=flat" alt="PCA">
+</p>
+
+### 🌳 Ensemble Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Random_Forest-2E7D32?style=flat" alt="Random Forest">
+  <img src="https://img.shields.io/badge/AdaBoost-2E7D32?style=flat" alt="AdaBoost">
+  <img src="https://img.shields.io/badge/Gradient_Boosting-2E7D32?style=flat" alt="Gradient Boosting">
+  <img src="https://img.shields.io/badge/XGBoost-2E7D32?style=flat" alt="XGBoost">
+  <img src="https://img.shields.io/badge/LightGBM-2E7D32?style=flat" alt="LightGBM">
+</p>
+
+### 🧠 Deep Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Neural_Networks-EE4C2C?style=flat" alt="Neural Networks">
+  <img src="https://img.shields.io/badge/CNN-EE4C2C?style=flat" alt="CNN">
+  <img src="https://img.shields.io/badge/RNN-EE4C2C?style=flat" alt="RNN">
+  <img src="https://img.shields.io/badge/LSTM-EE4C2C?style=flat" alt="LSTM">
+  <img src="https://img.shields.io/badge/GRU-EE4C2C?style=flat" alt="GRU">
+  <img src="https://img.shields.io/badge/Autoencoder-EE4C2C?style=flat" alt="Autoencoder">
+</p>
+
+## 👁️ Computer Vision & Object Detection
+
+<p>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/YOLO-111111?style=flat" alt="YOLO">
+</p>
+
+**Practical Areas:**
+
+* Image Preprocessing
+* Image Classification
+* Object Detection
+* Computer Vision Experiments
+
+## 🛠️ Machine Learning Frameworks
+
 <p>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="Scikit-learn">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow">
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" alt="Keras">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV">
-  <img src="https://img.shields.io/badge/YOLO-111111?style=flat" alt="YOLO">
 </p>
+
+### 🧪 Practical Machine Learning
+
+* Data Preprocessing & Cleaning
+* Feature Engineering
+* Feature Scaling
+* Train / Validation / Test Split
+* Model Training & Evaluation
+* Classification
+* Regression
+* Clustering
+* Dimensionality Reduction
+* Hyperparameter Tuning
+* Model Comparison
+* Cross-Validation
+* Confusion Matrix & Classification Metrics
 
 ---
 
@@ -344,6 +408,14 @@ Areas of interest:
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" alt="Plotly">
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white" alt="Apache Spark">
 </p>
+
+**Focus Areas:**
+
+* Data Cleaning
+* Exploratory Data Analysis
+* Data Visualization
+* Statistical Analysis
+* Data Processing
 
 ---
 
@@ -406,17 +478,17 @@ Areas of interest:
 
 # 🎯 Current Focus
 
-Currently strengthening my skills through practical projects, labs, and continuous learning in:
+Currently strengthening my skills through practical projects, hands-on labs, and continuous learning in:
 
 * 🔹 Network Engineering
 * 🔹 Network Security & Cyber Security
 * 🔹 Linux & System Administration
 * 🔹 IoT & Embedded Systems
-* 🔹 Python & Go
+* 🔹 Python & Go Development
 * 🔹 Web Development
 * 🔹 Data & Machine Learning
 * 🔹 Automation & Software Testing
-* 🔹 Security Labs & Practical Projects
+* 🔹 Practical Security Labs
 
 ---
 
