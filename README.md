@@ -63,6 +63,83 @@ I also explore **Python, Go, R, SQL, web development, REST APIs, automation, mac
 
 ### 🌐 Networking & Security
 
+#### 🔌 Networking Fundamentals
+
+<p>
+  <img src="https://img.shields.io/badge/IPv4-00599C?style=for-the-badge&logo=internet-explorer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IPv6-3776AB?style=for-the-badge&logo=internet-explorer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VLAN-0078D4?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Inter--VLAN_Routing-1F6FEB?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DHCP-2496ED?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DNS-4285F4?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NAT-FF6F00?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ACL-8B5CF6?style=for-the-badge&logoColor=white"/>
+</p>
+
+#### 🛣️ Routing & Switching
+
+<p>
+  <img src="https://img.shields.io/badge/Static_Routing-444444?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OSPF-CC0000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BGP-005571?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RIP-6A1B9A?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/STP-0078D4?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EtherChannel-1F6FEB?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LACP-0A66C2?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HSRP%2FVRRP-FF6F00?style=for-the-badge&logoColor=white"/>
+</p>
+
+#### 🔥 Network Security
+
+<p>
+  <img src="https://img.shields.io/badge/Firewall-DD0031?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firewall_Rules-8B0000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VPN-00599C?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IPsec_VPN-1F6FEB?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SSL%2FTLS-326CE5?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Network_Segmentation-6F42C1?style=for-the-badge&logoColor=white"/>
+</p>
+
+#### 📡 Network Services & Monitoring
+
+<p>
+  <img src="https://img.shields.io/badge/SNMP-00897B?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Syslog-455A64?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/QoS-1976D2?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Network_Monitoring-2E7D32?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Troubleshooting-F57C00?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+</p>
+
+#### 🏢 Network Technologies & Vendors
+
+<p>
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-2596BE?style=for-the-badge&logoColor=white"/>
+</p>
+
+#### 🛡️ Network Security & Practical Labs
+
+* VLAN & Inter-VLAN Routing
+* Static Routing & Dynamic Routing
+* OSPF & BGP Fundamentals
+* Switching & STP
+* DHCP, DNS & NAT
+* Firewall Configuration & ACL
+* VPN & Remote Access
+* Network Segmentation
+* Network Monitoring & Troubleshooting
+* Packet Analysis with Wireshark
+* Network Security Testing
+* Practical Labs with Cisco, MikroTik & Fortinet
+
+### 🌐 Networking & Security
+
 <p>
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white" alt="Cisco">
   <img src="https://img.shields.io/badge/MikroTik-293239?style=flat&logo=mikrotik&logoColor=white" alt="MikroTik">
