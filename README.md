@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads">
   </a>
   <a href="https://www.facebook.com/veendysuseno">
-    <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Facebook">
+    <img src="https://img.shields.io/badge/Facebook-0A66C2?style=for-the-badge&logo=threads&logoColor=white" alt="Facebook">
   </a>
   <a href="https://veendysuseno.medium.com/">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
