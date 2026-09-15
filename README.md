@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Veendy+Suseno" alt="Typing SVG" /> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving Hand" /> </p> <p align="center"> <strong> IT Infrastructure | Network Engineer | Cyber Security </strong> </p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Veendy+Suseno" alt="Typing SVG" /> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving Hand" /> </p> <p align="center"> <strong> Network Engineer | IT Infrastructure | Cyber Security Enthusiast </strong> </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/veendysuseno/">
@@ -9,6 +9,9 @@
   </a>
   <a href="https://www.threads.net/@veendysuseno">
     <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads">
+  </a>
+  <a href="https://www.facebook.com/veendysuseno">
+    <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Facebook">
   </a>
   <a href="https://veendysuseno.medium.com/">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
