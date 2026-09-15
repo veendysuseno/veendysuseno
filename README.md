@@ -1,8 +1,18 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Veendy+Suseno+%F0%9F%91%8B;IT+Specialist+%7C+IT+Infrastructure;Network+Engineer+%7C+Networking;Cyber+Security+Enthusiast+%7C+Security"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Veendy+Suseno"
     alt="Typing SVG"
   />
+  <br>
+  <img
+    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
+    width="45"
+    alt="Waving Hand"
+  />
+</p>
+
+<p align="center">
+  <strong>IT Specialist | IT Infrastructure | Network Engineer | Network Security Enthusiast</strong>
 </p>
 
 <p align="center">
@@ -68,6 +78,7 @@ My learning approach:
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white" alt="Kali Linux">
   <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=flat&logo=windows&logoColor=white" alt="Windows Server">
   <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat&logo=microsoft&logoColor=white" alt="Active Directory">
+  <img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white" alt="VMware">
 </p>
 
 **Focus Areas:**
@@ -79,6 +90,7 @@ My learning approach:
 * Linux Administration
 * Windows Server
 * Active Directory
+* Virtualization & Virtual Machines
 
 ---
 
@@ -320,19 +332,13 @@ Areas of interest:
 <p>
   <img src="https://img.shields.io/badge/Linear_Regression-3776AB?style=flat" alt="Linear Regression">
   <img src="https://img.shields.io/badge/Logistic_Regression-3776AB?style=flat" alt="Logistic Regression">
+  <img src="https://img.shields.io/badge/Ridge_Regression-3776AB?style=flat" alt="Ridge Regression">
+  <img src="https://img.shields.io/badge/Lasso_Regression-3776AB?style=flat" alt="Lasso Regression">
+  <img src="https://img.shields.io/badge/Elastic_Net-3776AB?style=flat" alt="Elastic Net">
   <img src="https://img.shields.io/badge/K--Nearest_Neighbors-3776AB?style=flat" alt="K-Nearest Neighbors">
   <img src="https://img.shields.io/badge/Decision_Tree-3776AB?style=flat" alt="Decision Tree">
   <img src="https://img.shields.io/badge/Support_Vector_Machine-3776AB?style=flat" alt="Support Vector Machine">
   <img src="https://img.shields.io/badge/Naive_Bayes-3776AB?style=flat" alt="Naive Bayes">
-</p>
-
-### 🔍 Unsupervised Learning
-
-<p>
-  <img src="https://img.shields.io/badge/K--Means_Clustering-6A1B9A?style=flat" alt="K-Means Clustering">
-  <img src="https://img.shields.io/badge/Hierarchical_Clustering-6A1B9A?style=flat" alt="Hierarchical Clustering">
-  <img src="https://img.shields.io/badge/DBSCAN-6A1B9A?style=flat" alt="DBSCAN">
-  <img src="https://img.shields.io/badge/PCA-6A1B9A?style=flat" alt="PCA">
 </p>
 
 ### 🌳 Ensemble Learning
@@ -343,9 +349,26 @@ Areas of interest:
   <img src="https://img.shields.io/badge/Gradient_Boosting-2E7D32?style=flat" alt="Gradient Boosting">
   <img src="https://img.shields.io/badge/XGBoost-2E7D32?style=flat" alt="XGBoost">
   <img src="https://img.shields.io/badge/LightGBM-2E7D32?style=flat" alt="LightGBM">
+  <img src="https://img.shields.io/badge/CatBoost-2E7D32?style=flat" alt="CatBoost">
 </p>
 
-### 🧠 Deep Learning
+### 🔍 Unsupervised Learning
+
+<p>
+  <img src="https://img.shields.io/badge/K--Means_Clustering-6A1B9A?style=flat" alt="K-Means Clustering">
+  <img src="https://img.shields.io/badge/Hierarchical_Clustering-6A1B9A?style=flat" alt="Hierarchical Clustering">
+  <img src="https://img.shields.io/badge/DBSCAN-6A1B9A?style=flat" alt="DBSCAN">
+  <img src="https://img.shields.io/badge/Gaussian_Mixture_Models-6A1B9A?style=flat" alt="Gaussian Mixture Models">
+</p>
+
+### 📉 Dimensionality Reduction
+
+<p>
+  <img src="https://img.shields.io/badge/PCA-8E44AD?style=flat" alt="PCA">
+  <img src="https://img.shields.io/badge/t--SNE-8E44AD?style=flat" alt="t-SNE">
+</p>
+
+## 🧠 Deep Learning
 
 <p>
   <img src="https://img.shields.io/badge/Neural_Networks-EE4C2C?style=flat" alt="Neural Networks">
@@ -450,6 +473,29 @@ Areas of interest:
 
 ---
 
+# 🧰 IT Support & Administration Tools
+
+<p>
+  <img src="https://img.shields.io/badge/PuTTY-005571?style=flat&logoColor=white" alt="PuTTY">
+  <img src="https://img.shields.io/badge/WinSCP-0066CC?style=flat&logoColor=white" alt="WinSCP">
+  <img src="https://img.shields.io/badge/MiniTool-2E7D32?style=flat&logoColor=white" alt="MiniTool">
+  <img src="https://img.shields.io/badge/Revo_Uninstaller-1565C0?style=flat&logoColor=white" alt="Revo Uninstaller">
+  <img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white" alt="VMware">
+</p>
+
+**Practical Uses:**
+
+* SSH & Remote Administration
+* SFTP & File Transfer
+* Remote Server Management
+* Disk Partition Management
+* Disk Maintenance
+* Software Uninstallation & Cleanup
+* Virtual Machines & Lab Environments
+* IT Support Troubleshooting
+
+---
+
 # 🔄 Version Control & Collaboration
 
 <p>
@@ -508,7 +554,14 @@ Currently strengthening my skills through practical projects, hands-on labs, and
 </p>
 
 <p align="center">
-  Thanks for visiting my profile.<br>
+  Thanks for visiting my profile.
+  <br>
+  <img
+    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
+    width="30"
+    alt="Bye Bye Waving Hand"
+  />
+  <br>
   Feel free to explore my repositories, projects, and technical labs.
 </p>
 
