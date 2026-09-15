@@ -27,8 +27,6 @@
 
 I'm an **IT Specialist with experience in IT Support and Networking**, currently developing my technical path toward:
 
-**IT Support & Network Engineer → Network Security → Cyber Security**
-
 My main technical areas include:
 
 * IT Support & Troubleshooting
@@ -38,11 +36,7 @@ My main technical areas include:
 * Network Security & Firewalls
 * VPN & Network Connectivity
 * Linux & Windows Systems
-* Security Testing & Practical Cyber Security Labs
 * IoT & Embedded Systems
-* Automation & Technical Prototyping
-
-I also explore **Programming, Web Development, Data, Machine Learning, IoT, Automation, and Software Testing** through practical projects, experiments, and technical labs.
 
 ---
 
@@ -135,15 +129,6 @@ I also explore **Programming, Web Development, Data, Machine Learning, IoT, Auto
   <img src="https://img.shields.io/badge/ZTE-005BAC?style=for-the-badge&logoColor=white" alt="ZTE">
 </p>
 
-**Network & Security Vendors:**
-
-`Cisco` · `MikroTik` · `Fortinet` · `Huawei` · `Juniper Networks` · `HPE Aruba Networking` · `Ubiquiti` · `TP-Link` · `Ruijie Networks` · `ZTE`
-
-**Security & Firewall Platforms:**
-
-`Fortinet` · `Palo Alto Networks` · `Sophos`
-
-
 ## 🛡️ Security Tools
 
 <p>
@@ -152,21 +137,6 @@ I also explore **Programming, Web Development, Data, Machine Learning, IoT, Auto
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite">
   <img src="https://img.shields.io/badge/Metasploit-2596BE?style=for-the-badge&logoColor=white" alt="Metasploit">
 </p>
-
-### 🧪 Practical Network Labs
-
-* VLAN & Inter-VLAN Routing
-* Static & Dynamic Routing
-* OSPF & BGP Fundamentals
-* Switching & STP
-* DHCP, DNS & NAT
-* Firewall & ACL Configuration
-* VPN & Remote Access
-* Network Segmentation
-* Network Monitoring & Troubleshooting
-* Packet Analysis with Wireshark
-* Network Security Testing
-* Cisco, MikroTik & Fortinet Labs
 
 ---
 
@@ -200,24 +170,6 @@ I also explore **Programming, Web Development, Data, Machine Learning, IoT, Auto
   <img src="https://img.shields.io/badge/EasyEDA-1769AA?style=for-the-badge&logoColor=white" alt="EasyEDA">
   <img src="https://img.shields.io/badge/Sensors-607D8B?style=for-the-badge&logoColor=white" alt="Sensors">
 </p>
-
-### 🧪 Practical IoT & Embedded Labs
-
-* Arduino-based electronics and sensor projects
-* ESP8266 / NodeMCU IoT projects
-* ESP32-based IoT applications
-* Wemos development boards
-* ESP32-CAM experiments
-* Raspberry Pi projects
-* STM32 embedded systems exploration
-* Sensor integration and monitoring
-* MQTT-based IoT communication
-* Wi-Fi-connected embedded systems
-* Blynk IoT monitoring
-* Telegram IoT notifications
-* Basic PCB design with Eagle PCB
-* PCB prototyping with EasyEDA
-* Hardware troubleshooting and prototyping
 
 ---
 
@@ -330,13 +282,6 @@ I also explore **Programming, Web Development, Data, Machine Learning, IoT, Auto
   <img src="https://img.shields.io/badge/YOLO-111111?style=flat" alt="YOLO">
 </p>
 
-**Practical Areas:**
-
-* Image Preprocessing
-* Image Classification
-* Object Detection
-* Computer Vision Experiments
-
 ## 🛠️ Machine Learning Frameworks
 
 <p>
@@ -345,22 +290,6 @@ I also explore **Programming, Web Development, Data, Machine Learning, IoT, Auto
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" alt="Keras">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch">
 </p>
-
-### 🧪 Practical Machine Learning
-
-* Data Preprocessing & Cleaning
-* Feature Engineering
-* Feature Scaling
-* Train / Validation / Test Split
-* Model Training & Evaluation
-* Classification
-* Regression
-* Clustering
-* Dimensionality Reduction
-* Hyperparameter Tuning
-* Model Comparison
-* Cross-Validation
-* Confusion Matrix & Classification Metrics
 
 ---
 
@@ -375,14 +304,6 @@ I also explore **Programming, Web Development, Data, Machine Learning, IoT, Auto
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" alt="Plotly">
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white" alt="Apache Spark">
 </p>
-
-**Focus Areas:**
-
-* Data Cleaning
-* Exploratory Data Analysis
-* Data Visualization
-* Statistical Analysis
-* Data Processing
 
 ---
 
@@ -433,17 +354,6 @@ I also explore **Programming, Web Development, Data, Machine Learning, IoT, Auto
   <img src="https://img.shields.io/badge/Chrome_Remote_Desktop-4285F4?style=flat&logo=googlechrome&logoColor=white" alt="Chrome Remote Desktop">
 </p>
 
-**Practical Uses:**
-
-* SSH & Remote Administration
-* SFTP & File Transfer
-* Remote Server Management
-* Disk Partition Management
-* Disk Maintenance
-* Software Uninstallation & Cleanup
-* Virtual Machines & Lab Environments
-* IT Support Troubleshooting
-
 ---
 
 # 🔄 Version Control & Collaboration
@@ -476,15 +386,12 @@ I also explore **Programming, Web Development, Data, Machine Learning, IoT, Auto
 
 Currently strengthening my skills through practical projects, hands-on labs, and continuous learning in:
 
-* 🔹 Network Engineering
-* 🔹 Network Security & Cyber Security
-* 🔹 Linux & System Administration
-* 🔹 IoT & Embedded Systems
-* 🔹 Python & Go Development
-* 🔹 Web Development
-* 🔹 Data & Machine Learning
-* 🔹 Automation & Software Testing
-* 🔹 Practical Security Labs
+* Network Engineering
+* Network Security & Cyber Security
+* Linux & System Administration
+* IoT & Embedded Systems
+* Python & Go Development
+* Data & Machine Learning
 
 ---
 
