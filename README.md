@@ -404,7 +404,6 @@ Currently strengthening my skills through practical projects, hands-on labs, and
 
 <p align="center">
   Thanks for visiting my profile.
-  <br>
   <img
     src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
     width="30"
