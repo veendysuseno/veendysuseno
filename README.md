@@ -62,10 +62,6 @@ My main technical areas include:
 
 I also explore **Programming, Web Development, Data, Machine Learning, IoT, Automation, and Software Testing** through practical projects, experiments, and technical labs.
 
-My learning approach:
-
-**Learn → Build → Troubleshoot → Secure**
-
 ---
 
 # 🛠️ Technical Skills
