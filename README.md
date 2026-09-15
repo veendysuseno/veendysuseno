@@ -227,56 +227,6 @@ My learning approach:
 
 ---
 
-# 🚀 IoT & Embedded Portfolio
-
-## 🔥 IoT Gas Leak Detector — Blynk
-
-**NodeMCU ESP8266 + MQ-2 + Buzzer + Blynk**
-
-IoT-based gas leak detection system using an **ESP8266 NodeMCU** and **MQ-2 gas sensor**. The system monitors gas and smoke levels, activates a buzzer when the configured threshold is exceeded, and provides notifications through Blynk.
-
-**Tech Stack:**
-
-`ESP8266` `NodeMCU` `MQ-2` `Arduino` `Blynk` `Wi-Fi` `C/C++`
-
-🔗 [View Project on GitHub](https://github.com/veendysuseno/BLYNK-IoT-Gas-Leak-Detector-Using-NodeMCU-ESP8266-v3-Lolin)
-
----
-
-## 🚨 IoT Gas Leak Detector — Telegram
-
-**NodeMCU ESP8266 + MQ-2 + Buzzer + Telegram Bot**
-
-IoT gas leak detection system using **NodeMCU ESP8266** and an **MQ-2 sensor**. The system monitors gas levels, activates a buzzer when the configured threshold is exceeded, and sends remote alerts through a Telegram Bot.
-
-**Tech Stack:**
-
-`ESP8266` `NodeMCU` `MQ-2` `Arduino` `Telegram Bot` `Wi-Fi` `C/C++`
-
-🔗 [View Project on GitHub](https://github.com/veendysuseno/IoT-Project-Telegram-IoT-Gas-Leak-Detektor)
-
----
-
-## 📡 IoT & Embedded Experiments
-
-Exploring practical projects using:
-
-`Arduino` · `ESP8266` · `ESP32` · `Wemos` · `ESP32-CAM` · `Raspberry Pi` · `STM32`
-
-Areas of interest:
-
-* Sensor monitoring
-* IoT automation
-* Wireless communication
-* MQTT
-* Remote notifications
-* Embedded programming
-* Camera-based IoT
-* PCB design
-* Hardware prototyping
-
----
-
 # 💻 Programming & Development
 
 <p>
