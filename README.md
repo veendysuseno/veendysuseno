@@ -401,7 +401,6 @@ Currently strengthening my skills through practical projects, hands-on labs, and
 <p align="center">
   <strong>Learn. Build. Troubleshoot. Secure.</strong>
 </p>
-<br>
 <p align="center">
   Thanks for visiting my profile.
   <br>
