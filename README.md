@@ -144,7 +144,23 @@ I also explore **Programming, Web Development, Data, Machine Learning, IoT, Auto
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco">
   <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik">
   <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet">
+  <img src="https://img.shields.io/badge/Huawei-FF0000?style=for-the-badge&logo=huawei&logoColor=white" alt="Huawei">
+  <img src="https://img.shields.io/badge/Juniper-0096D6?style=for-the-badge&logoColor=white" alt="Juniper Networks">
+  <img src="https://img.shields.io/badge/HPE_Aruba-01A982?style=for-the-badge&logo=arubanetworks&logoColor=white" alt="HPE Aruba Networking">
+  <img src="https://img.shields.io/badge/Ubiquiti-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white" alt="Ubiquiti">
+  <img src="https://img.shields.io/badge/TP--Link-4ACBD6?style=for-the-badge&logo=tplink&logoColor=white" alt="TP-Link">
+  <img src="https://img.shields.io/badge/Ruijie-0066CC?style=for-the-badge&logoColor=white" alt="Ruijie Networks">
+  <img src="https://img.shields.io/badge/ZTE-005BAC?style=for-the-badge&logoColor=white" alt="ZTE">
 </p>
+
+**Network & Security Vendors:**
+
+`Cisco` · `MikroTik` · `Fortinet` · `Huawei` · `Juniper Networks` · `HPE Aruba Networking` · `Ubiquiti` · `TP-Link` · `Ruijie Networks` · `ZTE`
+
+**Security & Firewall Platforms:**
+
+`Fortinet` · `Palo Alto Networks` · `Sophos`
+
 
 ## 🛡️ Security Tools
 
