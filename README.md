@@ -147,6 +147,59 @@ I also explore **Python, Go, R, SQL, web development, REST APIs, automation, mac
 
 ---
 
+## 🤖 IoT, Embedded Systems & Electronics
+
+### 🔧 Microcontrollers & Development Boards
+
+<p>
+  <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
+  <img src="https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP8266">
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32">
+  <img src="https://img.shields.io/badge/Wemos-2D2D2D?style=for-the-badge&logoColor=white" alt="Wemos">
+  <img src="https://img.shields.io/badge/ESP32--CAM-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32-CAM">
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32">
+</p>
+
+### 📡 IoT & Communication
+
+<p>
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT">
+  <img src="https://img.shields.io/badge/Wi--Fi-00599C?style=for-the-badge&logoColor=white" alt="Wi-Fi">
+  <img src="https://img.shields.io/badge/HTTP%2FREST-02569B?style=for-the-badge&logoColor=white" alt="HTTP REST">
+  <img src="https://img.shields.io/badge/Blynk-23C48E?style=for-the-badge&logoColor=white" alt="Blynk">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+</p>
+
+### ⚡ Electronics & PCB Design
+
+<p>
+  <img src="https://img.shields.io/badge/Eagle_PCB-FF6600?style=for-the-badge&logo=autodesk&logoColor=white" alt="Eagle PCB">
+  <img src="https://img.shields.io/badge/EasyEDA-1769AA?style=for-the-badge&logoColor=white" alt="EasyEDA">
+  <img src="https://img.shields.io/badge/Sensors-607D8B?style=for-the-badge&logoColor=white" alt="Sensors">
+  <img src="https://img.shields.io/badge/Embedded_C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Embedded C/C++">
+</p>
+
+### 🧪 Practical IoT & Embedded Labs
+
+* Arduino-based electronics and sensor projects
+* ESP8266 / NodeMCU IoT projects
+* ESP32-based IoT applications
+* Wemos / ESP development boards
+* ESP32-CAM experiments
+* Raspberry Pi projects
+* STM32 embedded systems exploration
+* Sensor integration and monitoring
+* IoT communication using MQTT
+* Wi-Fi-connected embedded systems
+* Blynk-based IoT monitoring
+* Telegram-based IoT notifications
+* Basic PCB design with Eagle PCB
+* PCB design and prototyping with EasyEDA
+* Hardware troubleshooting and prototyping
+
+---
+
 ## 💻 Programming & Development
 
 <p>
