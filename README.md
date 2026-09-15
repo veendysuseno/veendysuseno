@@ -401,14 +401,9 @@ Currently strengthening my skills through practical projects, hands-on labs, and
 <p align="center">
   <strong>Learn. Build. Troubleshoot. Secure.</strong>
 </p>
-
+<br>
 <p align="center">
   Thanks for visiting my profile.
-  <img
-    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
-    width="30"
-    alt="Bye Bye Waving Hand"
-  />
   <br>
   Feel free to explore my repositories, projects, and technical labs.
 </p>
