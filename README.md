@@ -33,24 +33,28 @@
 
 ## About Me
 
-I'm an **IT Specialist with experience in IT Support and Networking**, focused on:
+I'm an **IT Specialist with experience in IT Support and Networking**, currently building my technical path toward:
 
-- IT Infrastructure
-- Network Engineering
-- Network Security
-- Cyber Security
+**IT Support & Network Engineer → Network Security → Cyber Security**
 
 ### Core Technical Areas
 
-- IT Support & Troubleshooting
-- Network Configuration & Administration
-- Windows & Linux Systems
-- Network Security & Firewalls
-- VPN & Network Connectivity
-- System & Infrastructure Maintenance
-- Security Testing & Practical Cyber Security Labs
+* IT Support & Troubleshooting
+* IT Infrastructure & System Administration
+* Network Configuration & Administration
+* Routing & Switching
+* Network Security & Firewalls
+* VPN & Network Connectivity
+* Linux & Windows Systems
+* Security Testing & Practical Cyber Security Labs
+* IoT & Embedded Systems
+* Automation & Technical Prototyping
 
-I also explore **Python, Go, R, SQL, web development, REST APIs, automation, machine learning, deep learning, computer vision, data analytics, IoT, and software testing** to expand my technical knowledge and build practical solutions.
+I also explore **IoT, Embedded Systems, Python, Go, R, SQL, Web Development, REST APIs, Automation, Data Analytics, Machine Learning, Deep Learning, Computer Vision, and Software Testing** to build practical technical solutions.
+
+My learning approach is simple:
+
+**Learn → Build → Troubleshoot → Secure**
 
 ---
 
