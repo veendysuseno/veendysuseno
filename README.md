@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Veendy+Suseno+%F0%9F%91%8B;IT+Specialist;Network+Engineer;Cyber+Security+Enthusiast"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Veendy+Suseno+%F0%9F%91%8B;IT+Specialist+%7C+IT+Infrastructure;Network+Engineer+%7C+Networking;Cyber+Security+Enthusiast+%7C+Security"
     alt="Typing SVG"
   />
 </p>
