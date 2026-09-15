@@ -443,6 +443,12 @@ I also explore **Programming, Web Development, Data, Machine Learning, IoT, Auto
   <img src="https://img.shields.io/badge/MiniTool-2E7D32?style=flat&logoColor=white" alt="MiniTool">
   <img src="https://img.shields.io/badge/Revo_Uninstaller-1565C0?style=flat&logoColor=white" alt="Revo Uninstaller">
   <img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white" alt="VMware">
+  <img src="https://img.shields.io/badge/AnyDesk-EF443B?style=flat&logo=anydesk&logoColor=white" alt="AnyDesk"> 
+  <img src="https://img.shields.io/badge/TeamViewer-0E8EE9?style=flat&logo=teamviewer&logoColor=white" alt="TeamViewer"> 
+  <img src="https://img.shields.io/badge/Microsoft_Remote_Desktop-0078D4?style=flat&logo=windows&logoColor=white" alt="Microsoft Remote Desktop"> 
+  <img src="https://img.shields.io/badge/RDP%2FRDC-0078D4?style=flat&logo=windows&logoColor=white" alt="RDP/RDC"> 
+  <img src="https://img.shields.io/badge/RustDesk-024EFF?style=flat&logoColor=white" alt="RustDesk"> 
+  <img src="https://img.shields.io/badge/Chrome_Remote_Desktop-4285F4?style=flat&logo=googlechrome&logoColor=white" alt="Chrome Remote Desktop">
 </p>
 
 **Practical Uses:**
