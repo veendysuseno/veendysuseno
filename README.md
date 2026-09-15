@@ -31,13 +31,13 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I'm an **IT Specialist with experience in IT Support and Networking**, currently building my technical path toward:
+I'm an **IT Specialist with experience in IT Support and Networking**, currently developing my technical path toward:
 
 **IT Support & Network Engineer → Network Security → Cyber Security**
 
-### Core Technical Areas
+My main technical areas include:
 
 * IT Support & Troubleshooting
 * IT Infrastructure & System Administration
@@ -50,15 +50,15 @@ I'm an **IT Specialist with experience in IT Support and Networking**, currently
 * IoT & Embedded Systems
 * Automation & Technical Prototyping
 
-I also explore **IoT, Embedded Systems, Python, Go, R, SQL, Web Development, REST APIs, Automation, Data Analytics, Machine Learning, Deep Learning, Computer Vision, and Software Testing** to build practical technical solutions.
+I also explore **Programming, Web Development, Data, Machine Learning, IoT, Automation, and Software Testing** through practical projects and technical labs.
 
-My learning approach is simple:
+My learning approach:
 
 **Learn → Build → Troubleshoot → Secure**
 
 ---
 
-# Technical Skills
+# 🛠️ Technical Skills
 
 ## 🖥️ Systems & Infrastructure
 
@@ -70,11 +70,20 @@ My learning approach is simple:
   <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat&logo=microsoft&logoColor=white" alt="Active Directory">
 </p>
 
+**Focus Areas:**
+
+* IT Support & Troubleshooting
+* System Administration
+* Windows & Linux Administration
+* Windows Server
+* Active Directory
+* Hardware & Software Troubleshooting
+
 ---
 
-## 🌐 Networking & Network Security
+# 🌐 Networking & Network Security
 
-### 🔌 Networking Fundamentals
+## 🔌 Networking Fundamentals
 
 <p>
   <img src="https://img.shields.io/badge/IPv4-00599C?style=for-the-badge&logoColor=white" alt="IPv4">
@@ -87,7 +96,7 @@ My learning approach is simple:
   <img src="https://img.shields.io/badge/ACL-8B5CF6?style=for-the-badge&logoColor=white" alt="ACL">
 </p>
 
-### 🛣️ Routing & Switching
+## 🛣️ Routing & Switching
 
 <p>
   <img src="https://img.shields.io/badge/Static_Routing-444444?style=for-the-badge&logoColor=white" alt="Static Routing">
@@ -100,88 +109,99 @@ My learning approach is simple:
   <img src="https://img.shields.io/badge/HSRP%2FVRRP-FF6F00?style=for-the-badge&logoColor=white" alt="HSRP/VRRP">
 </p>
 
-### 🔥 Firewall, VPN & Security
+## 🔥 Firewall & VPN
 
 <p>
   <img src="https://img.shields.io/badge/Firewall-DD0031?style=for-the-badge&logoColor=white" alt="Firewall">
-  <img src="https://img.shields.io/badge/Firewall_Rules-8B0000?style=for-the-badge&logoColor=white" alt="Firewall Rules">
   <img src="https://img.shields.io/badge/VPN-00599C?style=for-the-badge&logoColor=white" alt="VPN">
   <img src="https://img.shields.io/badge/IPsec_VPN-1F6FEB?style=for-the-badge&logoColor=white" alt="IPsec VPN">
-  <img src="https://img.shields.io/badge/SSL%2FTLS-326CE5?style=for-the-badge&logoColor=white" alt="SSL/TLS">
+  <img src="https://img.shields.io/badge/SSL%2FTLS-326CE5?style=for-the-badge&logoColor=white" alt="SSL TLS">
   <img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logoColor=white" alt="WireGuard">
   <img src="https://img.shields.io/badge/Network_Segmentation-6F42C1?style=for-the-badge&logoColor=white" alt="Network Segmentation">
 </p>
 
-### 📡 Network Services & Monitoring
+## 📡 Network Services & Monitoring
 
 <p>
   <img src="https://img.shields.io/badge/SNMP-00897B?style=for-the-badge&logoColor=white" alt="SNMP">
   <img src="https://img.shields.io/badge/Syslog-455A64?style=for-the-badge&logoColor=white" alt="Syslog">
   <img src="https://img.shields.io/badge/QoS-1976D2?style=for-the-badge&logoColor=white" alt="QoS">
   <img src="https://img.shields.io/badge/Network_Monitoring-2E7D32?style=for-the-badge&logoColor=white" alt="Network Monitoring">
-  <img src="https://img.shields.io/badge/Network_Troubleshooting-F57C00?style=for-the-badge&logoColor=white" alt="Network Troubleshooting">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
 </p>
 
-### 🏢 Network Vendors & Security Tools
+**Practical Skills:**
+
+* Network Troubleshooting
+* Packet Analysis
+* Network Monitoring
+* Connectivity Troubleshooting
+* Network Segmentation
+* Basic Network Security
+
+## 🏢 Network Vendors
 
 <p>
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco">
   <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik">
   <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet">
+</p>
+
+## 🛡️ Security Tools
+
+<p>
   <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logoColor=white" alt="Nmap">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite">
   <img src="https://img.shields.io/badge/Metasploit-2596BE?style=for-the-badge&logoColor=white" alt="Metasploit">
 </p>
 
-### 🛡️ Practical Network Labs
+### 🧪 Practical Network Labs
 
-- VLAN & Inter-VLAN Routing
-- Static & Dynamic Routing
-- OSPF & BGP Fundamentals
-- Switching & STP
-- DHCP, DNS & NAT
-- Firewall Configuration & ACL
-- VPN & Remote Access
-- Network Segmentation
-- Network Monitoring & Troubleshooting
-- Packet Analysis with Wireshark
-- Network Security Testing
-- Practical Labs with Cisco, MikroTik & Fortinet
+* VLAN & Inter-VLAN Routing
+* Static & Dynamic Routing
+* OSPF & BGP Fundamentals
+* Switching & STP
+* DHCP, DNS & NAT
+* Firewall & ACL Configuration
+* VPN & Remote Access
+* Network Segmentation
+* Network Monitoring & Troubleshooting
+* Packet Analysis with Wireshark
+* Network Security Testing
+* Cisco, MikroTik & Fortinet Labs
 
 ---
 
-## 🤖 IoT, Embedded Systems & Electronics
+# 🤖 IoT, Embedded Systems & Electronics
 
-### 🔧 Microcontrollers & Development Boards
+## 🔧 Microcontrollers & Development Boards
 
 <p>
   <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
-  <img src="https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP8266">
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32">
+  <img src="https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logoColor=white" alt="ESP8266">
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logoColor=white" alt="ESP32">
   <img src="https://img.shields.io/badge/Wemos-2D2D2D?style=for-the-badge&logoColor=white" alt="Wemos">
-  <img src="https://img.shields.io/badge/ESP32--CAM-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32-CAM">
+  <img src="https://img.shields.io/badge/ESP32--CAM-E7352C?style=for-the-badge&logoColor=white" alt="ESP32-CAM">
   <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
-  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32">
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logoColor=white" alt="STM32">
 </p>
 
-### 📡 IoT & Communication
+## 📡 IoT Communication & Platforms
 
 <p>
   <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT">
   <img src="https://img.shields.io/badge/Wi--Fi-00599C?style=for-the-badge&logoColor=white" alt="Wi-Fi">
-  <img src="https://img.shields.io/badge/HTTP%2FREST-02569B?style=for-the-badge&logoColor=white" alt="HTTP REST">
   <img src="https://img.shields.io/badge/Blynk-23C48E?style=for-the-badge&logoColor=white" alt="Blynk">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
 </p>
 
-### ⚡ Electronics & PCB Design
+## ⚡ Electronics & PCB Design
 
 <p>
   <img src="https://img.shields.io/badge/Eagle_PCB-FF6600?style=for-the-badge&logo=autodesk&logoColor=white" alt="Eagle PCB">
   <img src="https://img.shields.io/badge/EasyEDA-1769AA?style=for-the-badge&logoColor=white" alt="EasyEDA">
   <img src="https://img.shields.io/badge/Sensors-607D8B?style=for-the-badge&logoColor=white" alt="Sensors">
-  <img src="https://img.shields.io/badge/Embedded_C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Embedded C/C++">
 </p>
 
 ### 🧪 Practical IoT & Embedded Labs
@@ -189,22 +209,72 @@ My learning approach is simple:
 * Arduino-based electronics and sensor projects
 * ESP8266 / NodeMCU IoT projects
 * ESP32-based IoT applications
-* Wemos / ESP development boards
+* Wemos development boards
 * ESP32-CAM experiments
 * Raspberry Pi projects
 * STM32 embedded systems exploration
 * Sensor integration and monitoring
-* IoT communication using MQTT
+* MQTT-based IoT communication
 * Wi-Fi-connected embedded systems
-* Blynk-based IoT monitoring
-* Telegram-based IoT notifications
+* Blynk IoT monitoring
+* Telegram IoT notifications
 * Basic PCB design with Eagle PCB
-* PCB design and prototyping with EasyEDA
+* PCB prototyping with EasyEDA
 * Hardware troubleshooting and prototyping
 
 ---
 
-## 💻 Programming & Development
+# 🚀 IoT & Embedded Portfolio
+
+## 🔥 IoT Gas Leak Detector — Blynk
+
+**NodeMCU ESP8266 + MQ-2 + Buzzer + Blynk**
+
+IoT-based gas leak detection system using an **ESP8266 NodeMCU** and **MQ-2 gas sensor**. The system monitors gas and smoke levels, activates a buzzer when the configured threshold is exceeded, and provides notifications through Blynk.
+
+**Tech Stack:**
+
+`ESP8266` `NodeMCU` `MQ-2` `Arduino` `Blynk` `Wi-Fi` `C/C++`
+
+🔗 [View Project on GitHub](https://github.com/veendysuseno/BLYNK-IoT-Gas-Leak-Detector-Using-NodeMCU-ESP8266-v3-Lolin)
+
+---
+
+## 🚨 IoT Gas Leak Detector — Telegram
+
+**NodeMCU ESP8266 + MQ-2 + Buzzer + Telegram Bot**
+
+IoT gas leak detection system using **NodeMCU ESP8266** and an **MQ-2 sensor**. The system monitors gas levels, activates a buzzer when the configured threshold is exceeded, and sends remote alerts through a Telegram Bot.
+
+**Tech Stack:**
+
+`ESP8266` `NodeMCU` `MQ-2` `Arduino` `Telegram Bot` `Wi-Fi` `C/C++`
+
+🔗 [View Project on GitHub](https://github.com/veendysuseno/IoT-Project-Telegram-IoT-Gas-Leak-Detektor)
+
+---
+
+## 📡 IoT & Embedded Experiments
+
+Exploring practical projects using:
+
+`Arduino` · `ESP8266` · `ESP32` · `Wemos` · `ESP32-CAM` · `Raspberry Pi` · `STM32`
+
+Areas of interest:
+
+* Sensor monitoring
+* IoT automation
+* Wireless communication
+* MQTT
+* Remote notifications
+* Embedded programming
+* Camera-based IoT
+* PCB design
+* Hardware prototyping
+
+---
+
+# 💻 Programming & Development
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
@@ -222,7 +292,7 @@ My learning approach is simple:
 
 ---
 
-## 🌐 Web Development & Frameworks
+# 🌐 Web Development & Frameworks
 
 <p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel">
@@ -235,7 +305,7 @@ My learning approach is simple:
 
 ---
 
-## 🧠 Algorithms & Data Structures
+# 🧠 Algorithms & Data Structures
 
 <p>
   <img src="https://img.shields.io/badge/Algorithms-000000?style=flat" alt="Algorithms">
@@ -250,7 +320,7 @@ My learning approach is simple:
 
 ---
 
-## 🤖 Machine Learning, Deep Learning & Computer Vision
+# 🤖 Machine Learning, Deep Learning & Computer Vision
 
 <p>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="Scikit-learn">
@@ -263,7 +333,7 @@ My learning approach is simple:
 
 ---
 
-## 📊 Data Science & Visualization
+# 📊 Data Science & Visualization
 
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy">
@@ -277,7 +347,7 @@ My learning approach is simple:
 
 ---
 
-## 🗄️ Databases
+# 🗄️ Databases
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
@@ -288,7 +358,9 @@ My learning approach is simple:
 
 ---
 
-## 📓 Development & Data Science Environment
+# 🧪 Development, Testing & Automation
+
+## 📓 Development Environment
 
 <p>
   <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
@@ -296,31 +368,27 @@ My learning approach is simple:
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code">
 </p>
 
----
-
-## 🔧 Testing, API & Automation
+## 🔧 Testing & API
 
 <p>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman">
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" alt="Selenium">
   <img src="https://img.shields.io/badge/Katalon-6C2BD9?style=flat&logoColor=white" alt="Katalon">
-  <img src="https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white" alt="MQTT">
 </p>
 
 ---
 
-## 🔄 Version Control & Collaboration
+# 🔄 Version Control & Collaboration
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white" alt="GitLab">
   <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white" alt="Bitbucket">
 </p>
 
 ---
 
-## 🧰 Tools & Community
+# 🧰 Tools & Community
 
 <p>
   <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow">
@@ -328,38 +396,31 @@ My learning approach is simple:
 
 ---
 
-## Certifications
+# 🏆 Certifications
 
-- **Fortinet NSE 4 — Network Security**
-- **MTCNA — MikroTik Certified Network Associate**
-- **BNSP — Computer Technical Support**
-
----
-
-## Current Focus
-
-Currently strengthening my skills in:
-
-- 🔹 Network Engineering
-- 🔹 Network Security
-- 🔹 Cyber Security
-- 🔹 Linux & System Administration
-- 🔹 Python & Go Development
-- 🔹 Algorithms & Data Structures
-- 🔹 Data Analysis & Visualization
-- 🔹 Machine Learning & Deep Learning
-- 🔹 Computer Vision & Object Detection
-- 🔹 Web Development & REST APIs
-- 🔹 Laravel, CodeIgniter & Next.js
-- 🔹 Database & SQL
-- 🔹 Automation & Software Testing
-- 🔹 IoT & MQTT
-- 🔹 Big Data & Data Processing
-- 🔹 Security Labs & Practical Projects
+* **Fortinet NSE 4 — Network Security**
+* **MTCNA — MikroTik Certified Network Associate**
+* **BNSP — Computer Technical Support**
 
 ---
 
-## Contribution
+# 🎯 Current Focus
+
+Currently strengthening my skills through practical projects, labs, and continuous learning in:
+
+* 🔹 Network Engineering
+* 🔹 Network Security & Cyber Security
+* 🔹 Linux & System Administration
+* 🔹 IoT & Embedded Systems
+* 🔹 Python & Go
+* 🔹 Web Development
+* 🔹 Data & Machine Learning
+* 🔹 Automation & Software Testing
+* 🔹 Security Labs & Practical Projects
+
+---
+
+# 🐍 Contribution
 
 <div align="center">
   <img
