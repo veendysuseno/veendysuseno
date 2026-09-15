@@ -53,17 +53,6 @@ My main technical areas include:
   <img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white" alt="VMware">
 </p>
 
-**Focus Areas:**
-
-* IT Support & Troubleshooting
-* Hardware & Software Troubleshooting
-* System Administration
-* Windows Administration
-* Linux Administration
-* Windows Server
-* Active Directory
-* Virtualization & Virtual Machines
-
 ---
 
 # 🌐 Networking & Network Security
