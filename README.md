@@ -3,9 +3,7 @@
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Veendy+Suseno"
     alt="Typing SVG"
   />
-  <br>
-  <img
-    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
     width="45"
     alt="Waving Hand"
   />
