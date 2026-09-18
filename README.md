@@ -1,12 +1,12 @@
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Veendy+Suseno"
-    alt="Typing SVG"
+    alt="Hi, I'm Veendy Suseno"
   />
 </p>
 
 <p align="center">
-  <strong>IT Specialist · Network Engineer · Cyber Security Enthusiast</strong>
+  <strong>IT Specialist · Network Engineer · Network Security Enthusiast</strong>
 </p>
 
 <p align="center">
@@ -25,14 +25,8 @@
   <a href="https://www.threads.net/@veendysuseno">
     <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads">
   </a>
-  <a href="https://www.facebook.com/veendysuseno">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-  </a>
   <a href="https://www.youtube.com/@veendysuseno">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-  <a href="mailto:veendysuseno@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
@@ -40,22 +34,23 @@
 
 ## 👨‍💻 About Me
 
-I'm an **IT Specialist with experience in IT Support and Networking**, with a growing focus on **Network Engineering, Network Security, and Cyber Security**.
+I'm an **IT Specialist with experience in IT Support and Networking**, currently developing my skills toward **Network Engineering, Network Security, and Cyber Security**.
 
-I enjoy working with infrastructure, troubleshooting technical issues, configuring networks, building hands-on labs, and exploring security technologies.
+I enjoy troubleshooting technical issues, working with IT infrastructure, configuring and analyzing networks, building hands-on labs, and exploring security technologies.
 
-### Areas of Interest
+I'm also interested in **Linux & Windows administration, IoT, automation, programming, and data technologies**.
 
-* IT Support & Troubleshooting
-* IT Infrastructure & System Administration
+### 🎯 Professional Interests
+
+* IT Support & IT Infrastructure
 * Network Engineering
 * Routing & Switching
 * Network Security & Firewalls
 * VPN & Network Connectivity
-* Linux & Windows Systems
+* Linux & Windows Administration
 * Cyber Security
 * IoT & Embedded Systems
-* Python & Go Development
+* Python & Automation
 * Data & Machine Learning
 
 ---
@@ -73,21 +68,19 @@ I enjoy working with infrastructure, troubleshooting technical issues, configuri
   <img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white" alt="VMware">
 </p>
 
----
-
 ## 🌐 Networking
 
 ### Networking Fundamentals
 
 <p>
-  <img src="https://img.shields.io/badge/IPv4-00599C?style=flat&logoColor=white" alt="IPv4">
-  <img src="https://img.shields.io/badge/IPv6-3776AB?style=flat&logoColor=white" alt="IPv6">
+  <img src="https://img.shields.io/badge/IPv4-00599C?style=flat" alt="IPv4">
+  <img src="https://img.shields.io/badge/IPv6-3776AB?style=flat" alt="IPv6">
   <img src="https://img.shields.io/badge/VLAN-0078D4?style=flat&logo=cisco&logoColor=white" alt="VLAN">
-  <img src="https://img.shields.io/badge/Inter--VLAN_Routing-1F6FEB?style=flat&logo=cisco&logoColor=white" alt="Inter-VLAN Routing">
-  <img src="https://img.shields.io/badge/DHCP-2496ED?style=flat&logoColor=white" alt="DHCP">
-  <img src="https://img.shields.io/badge/DNS-4285F4?style=flat&logoColor=white" alt="DNS">
-  <img src="https://img.shields.io/badge/NAT-FF6F00?style=flat&logoColor=white" alt="NAT">
-  <img src="https://img.shields.io/badge/ACL-8B5CF6?style=flat&logoColor=white" alt="ACL">
+  <img src="https://img.shields.io/badge/Inter--VLAN_Routing-1F6FEB?style=flat" alt="Inter-VLAN Routing">
+  <img src="https://img.shields.io/badge/DHCP-2496ED?style=flat" alt="DHCP">
+  <img src="https://img.shields.io/badge/DNS-4285F4?style=flat" alt="DNS">
+  <img src="https://img.shields.io/badge/NAT-FF6F00?style=flat" alt="NAT">
+  <img src="https://img.shields.io/badge/ACL-8B5CF6?style=flat" alt="ACL">
 </p>
 
 ### Routing & Switching
@@ -114,7 +107,7 @@ I enjoy working with infrastructure, troubleshooting technical issues, configuri
   <img src="https://img.shields.io/badge/Network_Segmentation-6F42C1?style=flat" alt="Network Segmentation">
 </p>
 
-### Network Services & Monitoring
+### Monitoring & Network Services
 
 <p>
   <img src="https://img.shields.io/badge/SNMP-00897B?style=flat" alt="SNMP">
@@ -130,17 +123,17 @@ I enjoy working with infrastructure, troubleshooting technical issues, configuri
   <img src="https://img.shields.io/badge/MikroTik-293239?style=flat&logo=mikrotik&logoColor=white" alt="MikroTik">
   <img src="https://img.shields.io/badge/Fortinet-EE3124?style=flat&logo=fortinet&logoColor=white" alt="Fortinet">
   <img src="https://img.shields.io/badge/Huawei-FF0000?style=flat&logo=huawei&logoColor=white" alt="Huawei">
-  <img src="https://img.shields.io/badge/Juniper-0096D6?style=flat&logoColor=white" alt="Juniper">
-  <img src="https://img.shields.io/badge/HPE_Aruba-01A982?style=flat&logo=arubanetworks&logoColor=white" alt="HPE Aruba">
+  <img src="https://img.shields.io/badge/Juniper-0096D6?style=flat" alt="Juniper">
+  <img src="https://img.shields.io/badge/HPE_Aruba-01A982?style=flat" alt="HPE Aruba">
   <img src="https://img.shields.io/badge/Ubiquiti-0559C9?style=flat&logo=ubiquiti&logoColor=white" alt="Ubiquiti">
-  <img src="https://img.shields.io/badge/TP--Link-4ACBD6?style=flat&logo=tplink&logoColor=white" alt="TP-Link">
+  <img src="https://img.shields.io/badge/TP--Link-4ACBD6?style=flat" alt="TP-Link">
   <img src="https://img.shields.io/badge/Ruijie-0066CC?style=flat" alt="Ruijie">
   <img src="https://img.shields.io/badge/ZTE-005BAC?style=flat" alt="ZTE">
 </p>
 
 ---
 
-## 🛡️ Cyber Security & Security Tools
+## 🛡️ Cyber Security
 
 <p>
   <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat" alt="Nmap">
@@ -151,9 +144,7 @@ I enjoy working with infrastructure, troubleshooting technical issues, configuri
 
 ---
 
-# 🤖 IoT & Embedded Systems
-
-### Development Boards
+## 🤖 IoT & Embedded Systems
 
 <p>
   <img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white" alt="Arduino">
@@ -165,8 +156,6 @@ I enjoy working with infrastructure, troubleshooting technical issues, configuri
   <img src="https://img.shields.io/badge/STM32-03234B?style=flat" alt="STM32">
 </p>
 
-### IoT Communication & Platforms
-
 <p>
   <img src="https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white" alt="MQTT">
   <img src="https://img.shields.io/badge/Wi--Fi-00599C?style=flat" alt="Wi-Fi">
@@ -174,33 +163,22 @@ I enjoy working with infrastructure, troubleshooting technical issues, configuri
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram">
 </p>
 
-### Electronics & PCB
-
-<p>
-  <img src="https://img.shields.io/badge/Eagle_PCB-FF6600?style=flat&logo=autodesk&logoColor=white" alt="Eagle PCB">
-  <img src="https://img.shields.io/badge/EasyEDA-1769AA?style=flat" alt="EasyEDA">
-  <img src="https://img.shields.io/badge/Sensors-607D8B?style=flat" alt="Sensors">
-</p>
-
 ---
 
-# 💻 Programming & Development
+## 💻 Programming & Development
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat" alt="SQL">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white" alt="Ruby">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
 </p>
 
-## 🌐 Web Development
+### Web Development
 
 <p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel">
@@ -213,98 +191,30 @@ I enjoy working with infrastructure, troubleshooting technical issues, configuri
 
 ---
 
-# 🧠 Algorithms & Data Structures
-
-<p>
-  <img src="https://img.shields.io/badge/Algorithms-000000?style=flat" alt="Algorithms">
-  <img src="https://img.shields.io/badge/Data_Structures-007ACC?style=flat" alt="Data Structures">
-  <img src="https://img.shields.io/badge/Sorting-6A1B9A?style=flat" alt="Sorting">
-  <img src="https://img.shields.io/badge/Searching-2E7D32?style=flat" alt="Searching">
-  <img src="https://img.shields.io/badge/Graph_Algorithms-D84315?style=flat" alt="Graph Algorithms">
-  <img src="https://img.shields.io/badge/Recursion-455A64?style=flat" alt="Recursion">
-  <img src="https://img.shields.io/badge/Dynamic_Programming-1565C0?style=flat" alt="Dynamic Programming">
-  <img src="https://img.shields.io/badge/Greedy_Algorithms-00838F?style=flat" alt="Greedy Algorithms">
-</p>
-
----
-
-# 🤖 Machine Learning & Computer Vision
-
-### Machine Learning
-
-<p>
-  <img src="https://img.shields.io/badge/Linear_Regression-3776AB?style=flat" alt="Linear Regression">
-  <img src="https://img.shields.io/badge/Logistic_Regression-3776AB?style=flat" alt="Logistic Regression">
-  <img src="https://img.shields.io/badge/Ridge_Regression-3776AB?style=flat" alt="Ridge Regression">
-  <img src="https://img.shields.io/badge/Lasso_Regression-3776AB?style=flat" alt="Lasso Regression">
-  <img src="https://img.shields.io/badge/Elastic_Net-3776AB?style=flat" alt="Elastic Net">
-  <img src="https://img.shields.io/badge/K--Nearest_Neighbors-3776AB?style=flat" alt="KNN">
-  <img src="https://img.shields.io/badge/Decision_Tree-3776AB?style=flat" alt="Decision Tree">
-  <img src="https://img.shields.io/badge/Support_Vector_Machine-3776AB?style=flat" alt="SVM">
-  <img src="https://img.shields.io/badge/Naive_Bayes-3776AB?style=flat" alt="Naive Bayes">
-</p>
-
-### Ensemble & Unsupervised Learning
-
-<p>
-  <img src="https://img.shields.io/badge/Random_Forest-2E7D32?style=flat" alt="Random Forest">
-  <img src="https://img.shields.io/badge/AdaBoost-2E7D32?style=flat" alt="AdaBoost">
-  <img src="https://img.shields.io/badge/Gradient_Boosting-2E7D32?style=flat" alt="Gradient Boosting">
-  <img src="https://img.shields.io/badge/XGBoost-2E7D32?style=flat" alt="XGBoost">
-  <img src="https://img.shields.io/badge/LightGBM-2E7D32?style=flat" alt="LightGBM">
-  <img src="https://img.shields.io/badge/CatBoost-2E7D32?style=flat" alt="CatBoost">
-  <img src="https://img.shields.io/badge/K--Means-6A1B9A?style=flat" alt="K-Means">
-  <img src="https://img.shields.io/badge/Hierarchical_Clustering-6A1B9A?style=flat" alt="Hierarchical Clustering">
-  <img src="https://img.shields.io/badge/DBSCAN-6A1B9A?style=flat" alt="DBSCAN">
-  <img src="https://img.shields.io/badge/Gaussian_Mixture_Models-6A1B9A?style=flat" alt="Gaussian Mixture Models">
-</p>
-
-### Dimensionality Reduction
-
-<p>
-  <img src="https://img.shields.io/badge/PCA-8E44AD?style=flat" alt="PCA">
-  <img src="https://img.shields.io/badge/t--SNE-8E44AD?style=flat" alt="t-SNE">
-</p>
-
-### Deep Learning
-
-<p>
-  <img src="https://img.shields.io/badge/Neural_Networks-EE4C2C?style=flat" alt="Neural Networks">
-  <img src="https://img.shields.io/badge/CNN-EE4C2C?style=flat" alt="CNN">
-  <img src="https://img.shields.io/badge/RNN-EE4C2C?style=flat" alt="RNN">
-  <img src="https://img.shields.io/badge/LSTM-EE4C2C?style=flat" alt="LSTM">
-  <img src="https://img.shields.io/badge/GRU-EE4C2C?style=flat" alt="GRU">
-  <img src="https://img.shields.io/badge/Autoencoder-EE4C2C?style=flat" alt="Autoencoder">
-</p>
-
-### Computer Vision & Frameworks
-
-<p>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV">
-  <img src="https://img.shields.io/badge/YOLO-111111?style=flat" alt="YOLO">
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="Scikit-learn">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" alt="Keras">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch">
-</p>
-
----
-
-# 📊 Data Science & Visualization
+## 📊 Data & Machine Learning
 
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white" alt="SciPy">
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white" alt="Matplotlib">
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat" alt="Seaborn">
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" alt="Plotly">
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white" alt="Apache Spark">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch">
 </p>
+
+### Machine Learning
+
+* Regression
+* Classification
+* Clustering
+* Dimensionality Reduction
+* Ensemble Learning
+* Neural Networks
+* Computer Vision
 
 ---
 
-# 🗄️ Databases
+## 🗄️ Databases
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
@@ -315,50 +225,31 @@ I enjoy working with infrastructure, troubleshooting technical issues, configuri
 
 ---
 
-# 🧪 Development, Testing & Automation
-
-### Development Environment
-
-<p>
-  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" alt="Google Colab">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code">
-</p>
-
-### Testing & API
-
-<p>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman">
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" alt="Selenium">
-  <img src="https://img.shields.io/badge/Katalon-6C2BD9?style=flat" alt="Katalon">
-</p>
-
----
-
-# 🧰 IT Support & Administration
+## 🧰 IT Support & Administration
 
 <p>
   <img src="https://img.shields.io/badge/PuTTY-005571?style=flat" alt="PuTTY">
   <img src="https://img.shields.io/badge/WinSCP-0066CC?style=flat" alt="WinSCP">
   <img src="https://img.shields.io/badge/MiniTool-2E7D32?style=flat" alt="MiniTool">
   <img src="https://img.shields.io/badge/Revo_Uninstaller-1565C0?style=flat" alt="Revo Uninstaller">
-  <img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white" alt="VMware">
   <img src="https://img.shields.io/badge/AnyDesk-EF443B?style=flat&logo=anydesk&logoColor=white" alt="AnyDesk">
   <img src="https://img.shields.io/badge/TeamViewer-0E8EE9?style=flat&logo=teamviewer&logoColor=white" alt="TeamViewer">
-  <img src="https://img.shields.io/badge/Microsoft_Remote_Desktop-0078D4?style=flat&logo=windows&logoColor=white" alt="Microsoft Remote Desktop">
-  <img src="https://img.shields.io/badge/RDP%2FRDC-0078D4?style=flat&logo=windows&logoColor=white" alt="RDP/RDC">
+  <img src="https://img.shields.io/badge/RDP-0078D4?style=flat&logo=windows&logoColor=white" alt="RDP">
   <img src="https://img.shields.io/badge/RustDesk-024EFF?style=flat" alt="RustDesk">
-  <img src="https://img.shields.io/badge/Chrome_Remote_Desktop-4285F4?style=flat&logo=googlechrome&logoColor=white" alt="Chrome Remote Desktop">
 </p>
 
 ---
 
-# 🔄 Version Control
+## 🧪 Tools & Development Environment
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white" alt="GitLab">
-  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white" alt="Bitbucket">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" alt="Google Colab">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" alt="Selenium">
 </p>
 
 ---
@@ -376,28 +267,37 @@ I enjoy working with infrastructure, troubleshooting technical issues, configuri
 I'm currently strengthening my technical skills through **hands-on labs, practical projects, and continuous learning**.
 
 ```text
+IT Support & Infrastructure
+        │
+        ├── System Administration
+        ├── Troubleshooting
+        └── IT Operations
+        │
+        ▼
 Network Engineering
         │
         ├── Routing & Switching
-        ├── Network Security
-        └── Network Infrastructure
+        ├── Network Infrastructure
+        └── Network Monitoring
         │
-        ├── Linux & System Administration
-        ├── Cyber Security
-        ├── IoT & Embedded Systems
-        ├── Python & Go
-        └── Data & Machine Learning
+        ▼
+Network Security & Cyber Security
+        │
+        ├── Firewalls
+        ├── VPN
+        ├── Network Security
+        └── Security Labs
 ```
 
 ---
 
 # 📚 Learning Approach
 
-I focus on learning through:
+I believe in learning by building and practicing.
 
 * 🔧 Hands-on labs
 * 🧪 Practical experiments
-* 🌐 Networking simulations
+* 🌐 Network simulations
 * 🛡️ Security labs
 * 💻 Personal projects
 * 📖 Technical documentation
