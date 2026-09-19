@@ -1,7 +1,7 @@
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Veendy+Suseno"
-    alt="Hi, I'm Veendy Suseno"
+    alt="Hi, I'm Veendy F Suseno"
   />
 </p>
 
@@ -34,7 +34,7 @@
 
 ## 👨‍💻 About Me
 
-I'm an **IT Specialist with experience in IT Support and Networking**, currently developing my skills toward **Network Engineering, Network Security, and Cyber Security**.
+I'm an **IT Specialist with experience in IT Support and Networking**, currently developing my skills toward **Network Engineering, Network Security, and Cyber Security Enthusiast**.
 
 I enjoy troubleshooting technical issues, working with IT infrastructure, configuring and analyzing networks, building hands-on labs, and exploring security technologies.
 
