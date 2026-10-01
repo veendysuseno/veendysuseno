@@ -34,7 +34,7 @@
 
 ## 👨‍💻 About Me
 
-I'm an **IT Specialist with experience in IT Support and Networking**, currently developing my skills toward **Network Engineering, Network Security, and Cyber Security Enthusiast**.
+I'm an **IT Specialist with experience in IT Support and Networking**, currently developing my expertise in **Network Engineering, Network Security, and Cyber Security**.
 
 I enjoy troubleshooting technical issues, working with IT infrastructure, configuring and analyzing networks, building hands-on labs, and exploring security technologies.
 
