@@ -262,35 +262,6 @@ I'm also interested in **Linux & Windows administration, IoT, automation, progra
 
 ---
 
-# 🎯 Current Focus
-
-I'm currently strengthening my technical skills through **hands-on labs, practical projects, and continuous learning**.
-
-```text
-IT Support & Infrastructure
-        │
-        ├── System Administration
-        ├── Troubleshooting
-        └── IT Operations
-        │
-        ▼
-Network Engineering
-        │
-        ├── Routing & Switching
-        ├── Network Infrastructure
-        └── Network Monitoring
-        │
-        ▼
-Network Security & Cyber Security
-        │
-        ├── Firewalls
-        ├── VPN
-        ├── Network Security
-        └── Security Labs
-```
-
----
-
 # 📚 Learning Approach
 
 I believe in learning by building and practicing.
