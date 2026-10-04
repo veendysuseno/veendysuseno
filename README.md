@@ -202,16 +202,6 @@ I'm also interested in **Linux & Windows administration, IoT, automation, progra
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch">
 </p>
 
-### Machine Learning
-
-* Regression
-* Classification
-* Clustering
-* Dimensionality Reduction
-* Ensemble Learning
-* Neural Networks
-* Computer Vision
-
 ---
 
 ## 🗄️ Databases
