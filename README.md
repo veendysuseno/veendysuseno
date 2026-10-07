@@ -41,14 +41,6 @@ I'm also interested in **Linux & Windows administration, IoT, automation, progra
 
 * IT Support & IT Infrastructure
 * Network Engineering
-* Routing & Switching
-* Network Security & Firewalls
-* VPN & Network Connectivity
-* Linux & Windows Administration
-* Cyber Security
-* IoT & Embedded Systems
-* Python & Automation
-* Data & Machine Learning
 
 ---
 
