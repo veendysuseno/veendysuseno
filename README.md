@@ -241,20 +241,6 @@ I'm also interested in **Linux & Windows administration, IoT, automation, progra
 
 ---
 
-# 📚 Learning Approach
-
-I believe in learning by building and practicing.
-
-* 🔧 Hands-on labs
-* 🧪 Practical experiments
-* 🌐 Network simulations
-* 🛡️ Security labs
-* 💻 Personal projects
-* 📖 Technical documentation
-* 🔄 Continuous improvement
-
----
-
 ## 🐍 Contribution
 
 <div align="center">
