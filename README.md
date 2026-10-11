@@ -35,7 +35,7 @@ I'm an **IT Specialist with experience in IT Support and Networking**, currently
 
 I enjoy troubleshooting technical issues, working with IT infrastructure, configuring and analyzing networks, building hands-on labs, and exploring security technologies.
 
-I'm also interested in **Linux & Windows administration, IoT, automation, programming, and data technologies**.
+I'm also interested in **Linux & Windows administration, IoT, programming, and data technologies**.
 
 ### 🎯 Professional Interests
 
