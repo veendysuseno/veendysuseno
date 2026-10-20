@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <strong>IT Support · Network Engineer · Network Security</strong>
+  <strong>IT Support · Network Engineer · Network Security · Cyber Security</strong>
 </p>
 
 <p align="center">
