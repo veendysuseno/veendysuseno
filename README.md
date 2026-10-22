@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <strong>IT Support Specialist · Network Engineer · Cyber Security · Data Science Enthusiast</strong>
+  <strong>IT Specialist · Network Engineer · Cyber Security Enthusiast</strong>
 </p>
 
 <!-- Link Websites & Portfolio -->
