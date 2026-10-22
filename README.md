@@ -55,6 +55,15 @@ I enjoy troubleshooting technical issues, building hands-on lab environments, co
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=veendysuseno&show_icons=true&theme=tokyonight&hide_border=true" alt="Veendy's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veendysuseno&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+---
+
 ## 🚀 Highlighted Projects
 
 - 🧠 **Student Attendance & Facial Expression Detection** — Real-time emotion detection and student attendance system built using Python, OpenCV, TensorFlow, and Keras.
@@ -184,6 +193,14 @@ I enjoy troubleshooting technical issues, building hands-on lab environments, co
     alt="Snake animation"
   />
 </div>
+
+---
+
+## 📬 Get in Touch
+
+- 💼 **Open for**: **Full-time** / Freelance / Contract in **Network Engineering & IT Support**
+- 📧 **Email**: [veendysuseno@gmail.com](veendysuseno@gmail.com)
+- 🌐 **Portfolio**: [veendysuseno.my.id](https://veendysuseno.my.id)
 
 ---
 
