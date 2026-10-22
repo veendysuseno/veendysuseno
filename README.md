@@ -12,7 +12,7 @@
 <!-- Link Websites & Portfolio -->
 <p align="center">
   <a href="https://veendysuseno.my.id">
-    <img src="https://img.shields.io/badge/Portfolio-🌐_veendysuseno.my.id-0078D4?style=for-the-badge" alt="Portfolio ;imp Download CV">
+    <img src="https://img.shields.io/badge/Portfolio-🌐_veendysuseno.my.id-0078D4?style=for-the-badge" alt="Portfolio">
   </a>
   <a href="https://veendytech.my.id">
     <img src="https://img.shields.io/badge/Tech_Blog-✍️_veendytech.my.id-FF6F00?style=for-the-badge" alt="VeendyTech Blog">
