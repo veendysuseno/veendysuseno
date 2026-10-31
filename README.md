@@ -52,6 +52,22 @@ I enjoy troubleshooting technical issues, building hands-on lab environments, co
 - 🌐 **Portfolio & Services**: [veendysuseno.my.id](https://veendysuseno.my.id)
 - 📄 **Resume / Interactive CV**: [veendysuseno.biz.id](https://veendysuseno.biz.id) | [veendysuseno.web.id](https://veendysuseno.web.id)
 - ✍️ **Tech Blog**: [VeendyTech (veendytech.my.id)](https://veendytech.my.id) — Documentation, networking guides, & IT support tutorials in Indonesian.
+---
+
+## 👀 GitHub Profile Overview
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=veendysuseno&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <a href="https://github.com/veendysuseno?tab=followers">
+    <img src="https://img.shields.io/github/followers/veendysuseno?label=Followers&style=for-the-badge&logo=github&color=181717" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/veendysuseno?tab=following">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fveendysuseno&query=%24.following&label=Following&style=for-the-badge&logo=github&color=8957e5" alt="GitHub following" />
+  </a>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fveendysuseno&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=238636" alt="Public repositories" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fveendysuseno&query=%24.public_gists&label=Public%20Gists&style=for-the-badge&logo=github&color=0969da" alt="Public gists" />
+  <img src="https://img.shields.io/github/stars/veendysuseno?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=Stars&logo=github&color=yellow" alt="GitHub stars" />
+</p>
 
 ---
 
@@ -61,7 +77,6 @@ I enjoy troubleshooting technical issues, building hands-on lab environments, co
   <img src="https://github-readme-stats.vercel.app/api?username=veendysuseno&show_icons=true&theme=tokyonight&hide_border=true" alt="Veendy's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veendysuseno&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
-
 
 ---
 
