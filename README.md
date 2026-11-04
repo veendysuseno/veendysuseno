@@ -52,6 +52,8 @@ I enjoy troubleshooting technical issues, building hands-on lab environments, co
 - 🌐 **Portfolio & Services**: [veendysuseno.my.id](https://veendysuseno.my.id)
 - 📄 **Resume / Interactive CV**: [veendysuseno.biz.id](https://veendysuseno.biz.id) | [veendysuseno.web.id](https://veendysuseno.web.id)
 - ✍️ **Tech Blog**: [VeendyTech (veendytech.my.id)](https://veendytech.my.id) — Documentation, networking guides, & IT support tutorials in Indonesian.
+- 📧 **Email**: [veendysuseno@gmail.com](mailto:veendysuseno@gmail.com)
+
 ---
 
 ## 👀 GitHub Profile Overview
@@ -89,10 +91,9 @@ I enjoy troubleshooting technical issues, building hands-on lab environments, co
 
 ---
 
-# 🛠️ Technical Skills
+## 🛠️ Technical Skills
 
-## 🖥️ Systems & Infrastructure
-
+### 🖥️ Systems & Infrastructure
 <p>
   <img src="https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white" alt="Windows">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
@@ -102,10 +103,7 @@ I enjoy troubleshooting technical issues, building hands-on lab environments, co
   <img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white" alt="VMware">
 </p>
 
-## 🌐 Networking
-
-### Fundamentals & Routing/Switching
-
+### 🌐 Networking & Routing/Switching
 <p>
   <img src="https://img.shields.io/badge/IPv4%2FIPv6-00599C?style=flat" alt="IPv4/IPv6">
   <img src="https://img.shields.io/badge/VLAN-0078D4?style=flat&logo=cisco&logoColor=white" alt="VLAN">
@@ -117,8 +115,7 @@ I enjoy troubleshooting technical issues, building hands-on lab environments, co
   <img src="https://img.shields.io/badge/HSRP%2FVRRP-FF6F00?style=flat" alt="HSRP/VRRP">
 </p>
 
-### Firewall, VPN & Network Security
-
+### 🔒 Firewall, VPN & Security
 <p>
   <img src="https://img.shields.io/badge/Firewall-DD0031?style=flat" alt="Firewall">
   <img src="https://img.shields.io/badge/IPsec_VPN-1F6FEB?style=flat" alt="IPsec VPN">
@@ -127,8 +124,7 @@ I enjoy troubleshooting technical issues, building hands-on lab environments, co
   <img src="https://img.shields.io/badge/Network_Segmentation-6F42C1?style=flat" alt="Network Segmentation">
 </p>
 
-### Network Vendors
-
+### 🏢 Network Vendors
 <p>
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white" alt="Cisco">
   <img src="https://img.shields.io/badge/MikroTik-293239?style=flat&logo=mikrotik&logoColor=white" alt="MikroTik">
@@ -139,10 +135,7 @@ I enjoy troubleshooting technical issues, building hands-on lab environments, co
   <img src="https://img.shields.io/badge/Ubiquiti-0559C9?style=flat&logo=ubiquiti&logoColor=white" alt="Ubiquiti">
 </p>
 
----
-
-## 🛡️ Cyber Security & Tools
-
+### 🛡️ Cyber Security Tools
 <p>
   <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat" alt="Nmap">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" alt="Wireshark">
@@ -150,10 +143,7 @@ I enjoy troubleshooting technical issues, building hands-on lab environments, co
   <img src="https://img.shields.io/badge/Metasploit-2596BE?style=flat" alt="Metasploit">
 </p>
 
----
-
-## 🤖 IoT & Embedded Systems
-
+### 🤖 IoT & Embedded Systems
 <p>
   <img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white" alt="Arduino">
   <img src="https://img.shields.io/badge/ESP8266-E7352C?style=flat" alt="ESP8266">
@@ -163,10 +153,7 @@ I enjoy troubleshooting technical issues, building hands-on lab environments, co
   <img src="https://img.shields.io/badge/Blynk-23C48E?style=flat" alt="Blynk">
 </p>
 
----
-
-## 💻 Programming & Development
-
+### 💻 Programming & Development
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go">
@@ -178,10 +165,7 @@ I enjoy troubleshooting technical issues, building hands-on lab environments, co
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
 </p>
 
----
-
-## 📊 Data Science & Machine Learning
-
+### 📊 Data Science & Machine Learning
 <p>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow">
@@ -193,15 +177,15 @@ I enjoy troubleshooting technical issues, building hands-on lab environments, co
 
 ---
 
-# 🏆 Certifications
+## 🏆 Certifications
 
-- **BNSP — Computer Technical Support Specialist**
-- **Fortinet NSE 4 — Network Security**
-- **MTCNA — MikroTik Certified Network Associate**
+- **BNSP** — Computer Technical Support Specialist
+- **Fortinet NSE 4** — Network Security Professional
+- **MTCNA** — MikroTik Certified Network Associate
 
 ---
 
-## 🐍 Contribution
+## 🐍 GitHub Contribution Snake
 
 <div align="center">
   <img
@@ -215,7 +199,7 @@ I enjoy troubleshooting technical issues, building hands-on lab environments, co
 ## 📬 Get in Touch
 
 - 💼 **Open for**: **Full-time** / Freelance / Contract in **Network Engineering & IT Support**
-- 📧 **Email**: [veendysuseno@gmail.com](veendysuseno@gmail.com)
+- 📧 **Email**: [veendysuseno@gmail.com](mailto:veendysuseno@gmail.com)
 - 🌐 **Portfolio**: [veendysuseno.my.id](https://veendysuseno.my.id)
 
 ---
