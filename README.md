@@ -189,7 +189,7 @@ I enjoy troubleshooting technical issues, building hands-on lab environments, co
 
 <div align="center">
   <img
-    src="https://profile-readme-generator.com/assets/snake.svg"
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
     alt="Snake animation"
   />
 </div>
