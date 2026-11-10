@@ -9,8 +9,14 @@
   <strong>IT Specialist · Network Engineer · Cyber Security Enthusiast</strong>
 </p>
 
-<br>
-<iframe src="https://github.com/sponsors/veendysuseno/button" title="Sponsor veendysuseno" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+<p align="center">
+  <a href="https://github.com/sponsors/veendysuseno">
+    <img
+      src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white"
+      alt="Sponsor veendysuseno"
+    />
+  </a>
+</p>
 
 <!-- Link Websites & Portfolio -->
 <p align="center">
