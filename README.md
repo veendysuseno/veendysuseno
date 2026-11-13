@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <strong>IT Hardware & Network Specialist · Network Engineer · IoT & Cyber Security Enthusiast</strong>
+  <strong>IT Hardware & Network · Network Engineer · Cyber Security Enthusiast</strong>
 </p>
 
 <p align="center">
