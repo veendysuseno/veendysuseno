@@ -58,7 +58,7 @@ I specialize in **IT Support, Network Engineering, Network Security, and Cyber S
 I enjoy troubleshooting technical issues, building hands-on lab environments, configuring enterprise networks, and sharing tech guides with the community.
 
 ### 🌐 Personal Sites & Writing
-- 🌐 **Portfolio & Services**: [veendysuseno.my.id](https://veendysuseno.my.id)
+- 🌐 **Portfolio & Services**: [veendysuseno.my.id](https://veendysuseno.my.id) | [veenbotronik.my.id](https://veenbotronik.my.id)
 - 📄 **Resume / Interactive CV**: [veendysuseno.biz.id](https://veendysuseno.biz.id) | [veendysuseno.web.id](https://veendysuseno.web.id)
 - ✍️ **Tech Blog**: [VeendyTech (veendytech.my.id)](https://veendytech.my.id) — Documentation, networking guides, & IT support tutorials in Indonesian.
 - 📧 **Email**: [veendysuseno@gmail.com](mailto:veendysuseno@gmail.com)
