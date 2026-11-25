@@ -51,7 +51,7 @@
 
 ## 👨‍💻 About Me
 
-I am a reliable and adaptable **IT Specialist & Network Engineer** with a Bachelor's degree in **Computer Systems (S1 Sistem Komputer)**. 
+I am a reliable and adaptable **IT Specialist & Network Engineer** with a Bachelor's degree in **Computer Systems**. 
 
 I specialize in **IT Support, Network Engineering, Network Security, and Cyber Security**, while actively expanding my skills into **Data Science, Machine Learning, and Embedded Systems (IoT)**. 
 
