@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <strong>IT Support · Network Engineer · IoT & Cyber Security Enthusiast</strong>
+  <strong>IT Hardware Support · Network Engineer · IoT & Cyber Security Enthusiast</strong>
 </p>
 
 <p align="center">
